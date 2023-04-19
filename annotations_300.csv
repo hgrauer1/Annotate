@@ -1,0 +1,2146 @@
+filename,class,xmin,ymin,xmax,ymax
+1.png,Solar Panels,837,578,1083,1007
+1.png,Solar Panels,841,64,1087,485
+1.png,Body,859,485,1065,587
+1.png,Large Antenna,656,505,754,566
+1.png,Large Antenna,1170,504,1267,565
+1.png,Small Antenna,1037,474,1181,597
+1.png,Small Antenna,742,474,887,597
+2.png,Solar Panels,789,579,1008,1020
+2.png,Solar Panels,794,51,1013,533
+2.png,Body,769,485,1080,587
+2.png,Large Antenna,1140,506,1194,564
+2.png,Large Antenna,658,503,778,568
+2.png,Small Antenna,1055,500,1148,571
+2.png,Small Antenna,772,473,881,598
+3.png,Solar Panels,784,579,922,1037
+3.png,Solar Panels,791,34,928,492
+3.png,Body,703,485,1106,587
+3.png,Large Antenna,1068,507,1085,563
+3.png,Large Antenna,748,502,864,569
+3.png,Small Antenna,806,476,1078,600
+3.png,Small Antenna,806,471,839,501
+4.png,Solar Panels,828,22,849,1051
+4.png,Body,700,486,1099,586
+4.png,Large Antenna,905,501,987,569
+4.png,Small Antenna,850,470,1000,601
+4.png,Small Antenna,968,496,1000,514
+5.png,Solar Panels,795,581,914,1061
+5.png,Solar Panels,798,10,917,490
+5.png,Body,692,486,1099,587
+5.png,Large Antenna,1062,502,1103,569
+5.png,Small Antenna,819,474,953,602
+5.png,Small Antenna,915,469,1083,572
+6.png,Solar Panels,787,581,1014,1061
+6.png,Solar Panels,787,10,1013,489
+6.png,Body,741,486,1064,586
+6.png,Large Antenna,682,506,750,564
+6.png,Large Antenna,1149,503,1226,568
+6.png,Small Antenna,809,472,829,599
+6.png,Small Antenna,990,469,1157,602
+7.png,Solar Panels,828,581,1097,1051
+7.png,Solar Panels,824,20,1093,489
+7.png,Body,849,486,1071,586
+7.png,Large Antenna,1167,505,1276,566
+7.png,Large Antenna,645,504,753,565
+7.png,Small Antenna,1052,470,1178,601
+7.png,Small Antenna,742,470,868,601
+8.png,Solar Panels,908,581,1139,1060
+8.png,Solar Panels,902,11,1133,489
+8.png,Body,850,486,1179,587
+8.png,Large Antenna,1171,507,1239,565
+8.png,Large Antenna,694,502,771,567
+8.png,Small Antenna,1091,472,1112,600
+8.png,Small Antenna,763,469,931,602
+9.png,Solar Panels,1005,581,1131,1061
+9.png,Solar Panels,999,10,1125,490
+9.png,Body,817,485,1229,588
+9.png,Large Antenna,818,501,859,568
+9.png,Small Antenna,968,473,1103,602
+9.png,Small Antenna,838,469,1006,573
+10.png,Body,823,485,1222,588
+10.png,Large Antenna,935,500,1017,568
+10.png,Small Antenna,922,470,1072,601
+11.png,Solar Panels,1002,579,1133,1037
+11.png,Solar Panels,1000,33,1131,492
+11.png,Body,820,484,1220,588
+11.png,Large Antenna,838,508,855,564
+11.png,Large Antenna,1059,501,1175,568
+11.png,Small Antenna,845,497,1117,600
+11.png,Small Antenna,1084,471,1117,501
+12.png,Solar Panels,915,579,1130,1020
+12.png,Solar Panels,915,50,1131,488
+12.png,Body,850,485,1155,588
+12.png,Large Antenna,730,507,783,565
+12.png,Large Antenna,1146,502,1266,567
+12.png,Small Antenna,775,475,935,570
+12.png,Small Antenna,1042,473,1152,598
+13.png,Solar Panels,638,283,1338,1026
+13.png,Body,848,464,1224,669
+13.png,Large Antenna,829,593,884,650
+13.png,Large Antenna,1043,444,1156,485
+13.png,Small Antenna,846,469,1083,644
+13.png,Small Antenna,1096,502,1125,521
+14.png,Solar Panels,679,512,931,620
+14.png,Solar Panels,1001,563,1664,755
+14.png,Body,820,465,1190,683
+14.png,Body,941,617,997,638
+14.png,Large Antenna,745,611,809,673
+14.png,Large Antenna,1110,445,1214,471
+14.png,Small Antenna,794,567,995,636
+14.png,Small Antenna,1010,462,1143,561
+15.png,Solar Panels,847,553,1115,751
+15.png,Solar Panels,634,54,1040,513
+15.png,Body,809,404,1071,625
+15.png,Large Antenna,650,547,760,590
+15.png,Large Antenna,1171,469,1248,525
+15.png,Small Antenna,749,470,871,585
+15.png,Small Antenna,1020,443,1174,552
+16.png,Solar Panels,999,598,1885,757
+16.png,Solar Panels,71,446,841,603
+16.png,Body,819,486,1066,695
+16.png,Large Antenna,906,463,1025,496
+16.png,Small Antenna,905,481,1058,585
+16.png,Small Antenna,827,539,880,555
+17.png,Solar Panels,1146,497,1741,698
+17.png,Solar Panels,53,337,959,594
+17.png,Body,844,476,1171,614
+17.png,Large Antenna,871,655,971,715
+17.png,Large Antenna,974,372,1082,430
+17.png,Small Antenna,878,583,1003,660
+17.png,Small Antenna,926,426,1051,480
+18.png,Solar Panels,1056,542,1422,645
+18.png,Solar Panels,74,486,843,636
+18.png,Body,746,470,1078,664
+18.png,Body,871,611,930,632
+18.png,Large Antenna,1046,632,1120,697
+18.png,Large Antenna,799,427,899,453
+18.png,Small Antenna,861,447,1087,634
+18.png,Small Antenna,791,513,827,534
+19.png,Solar Panels,520,482,905,627
+19.png,Solar Panels,1092,401,1853,603
+19.png,Body,864,480,1177,600
+19.png,Body,1121,494,1176,567
+19.png,Body,917,520,995,555
+19.png,Large Antenna,935,662,1031,710
+19.png,Large Antenna,896,372,984,427
+19.png,Small Antenna,905,582,1111,662
+19.png,Small Antenna,886,421,1095,492
+20.png,Solar Panels,515,452,856,660
+20.png,Body,786,483,1106,602
+20.png,Large Antenna,915,656,991,713
+20.png,Large Antenna,897,369,976,420
+20.png,Small Antenna,834,596,1008,662
+20.png,Small Antenna,827,418,1000,491
+21.png,Solar Panels,846,474,1163,708
+21.png,Solar Panels,683,457,797,571
+21.png,Body,700,483,902,607
+21.png,Large Antenna,912,656,990,713
+21.png,Large Antenna,910,367,990,421
+21.png,Small Antenna,879,602,900,619
+21.png,Small Antenna,878,419,1013,494
+22.png,Solar Panels,758,411,1240,611
+22.png,Body,804,508,886,594
+22.png,Body,1007,445,1237,581
+22.png,Large Antenna,1006,654,1100,698
+22.png,Large Antenna,870,371,933,431
+22.png,Small Antenna,956,576,1111,658
+23.png,Solar Panels,917,446,1627,614
+23.png,Solar Panels,457,427,774,535
+23.png,Body,719,403,1059,619
+23.png,Body,849,541,903,566
+23.png,Large Antenna,718,625,832,655
+23.png,Large Antenna,1076,406,1146,449
+23.png,Small Antenna,777,532,932,630
+23.png,Small Antenna,1002,454,1033,470
+24.png,Solar Panels,117,561,905,702
+24.png,Solar Panels,1058,484,1887,621
+24.png,Body,875,471,1075,678
+24.png,Large Antenna,934,615,1054,681
+24.png,Large Antenna,905,447,1002,466
+24.png,Small Antenna,876,567,1102,634
+24.png,Small Antenna,899,463,1026,500
+25.png,Solar Panels,176,294,1477,815
+25.png,Body,829,393,1108,599
+25.png,Body,979,536,1033,557
+25.png,Large Antenna,1131,578,1238,616
+25.png,Large Antenna,700,457,793,510
+25.png,Small Antenna,981,491,1143,604
+25.png,Small Antenna,776,486,838,540
+26.png,Solar Panels,1057,486,1893,691
+26.png,Solar Panels,201,390,881,578
+26.png,Body,862,478,1091,607
+26.png,Large Antenna,883,654,989,702
+26.png,Large Antenna,955,370,1068,429
+26.png,Small Antenna,883,593,1081,661
+26.png,Small Antenna,894,421,1111,500
+27.png,Solar Panels,934,531,953,550
+27.png,Solar Panels,1097,442,1396,647
+27.png,Body,831,476,1138,600
+27.png,Body,1202,479,1219,578
+27.png,Body,931,529,955,552
+27.png,Large Antenna,953,659,1033,708
+27.png,Large Antenna,916,367,989,426
+27.png,Small Antenna,924,589,1093,662
+27.png,Small Antenna,904,420,1076,485
+28.png,Solar Panels,1032,599,1863,702
+28.png,Solar Panels,113,528,811,609
+28.png,Body,842,465,1060,692
+28.png,Large Antenna,808,561,929,616
+28.png,Small Antenna,841,535,1082,621
+29.png,Solar Panels,1084,450,1852,572
+29.png,Solar Panels,0,405,917,537
+29.png,Body,857,398,1086,595
+29.png,Large Antenna,920,627,1039,658
+29.png,Large Antenna,878,417,901,452
+29.png,Small Antenna,860,531,1096,633
+30.png,Solar Panels,741,227,1202,602
+30.png,Body,742,402,1073,622
+30.png,Body,807,503,846,533
+30.png,Large Antenna,682,599,799,628
+30.png,Large Antenna,1127,428,1182,484
+30.png,Small Antenna,786,504,897,613
+30.png,Small Antenna,1064,472,1141,525
+31.png,Solar Panels,192,333,1354,932
+31.png,Body,748,492,1082,650
+31.png,Body,925,475,1017,564
+31.png,Large Antenna,1094,623,1159,683
+31.png,Large Antenna,735,412,846,451
+31.png,Small Antenna,915,562,1119,636
+31.png,Small Antenna,787,442,943,551
+32.png,Solar Panels,1054,489,1881,695
+32.png,Solar Panels,226,320,885,455
+32.png,Body,841,392,1123,628
+32.png,Large Antenna,774,527,879,572
+32.png,Large Antenna,1065,508,1113,539
+32.png,Small Antenna,833,469,1037,578
+33.png,Solar Panels,953,445,1784,574
+33.png,Solar Panels,336,437,769,526
+33.png,Body,744,397,1086,621
+33.png,Body,880,529,939,554
+33.png,Large Antenna,723,614,839,643
+33.png,Large Antenna,1060,422,1142,465
+33.png,Small Antenna,775,523,942,621
+33.png,Small Antenna,1024,455,1088,492
+34.png,Solar Panels,188,461,854,503
+34.png,Solar Panels,1046,437,1917,490
+34.png,Body,858,390,1087,620
+34.png,Large Antenna,1029,542,1116,575
+34.png,Large Antenna,802,477,918,529
+34.png,Small Antenna,850,467,1116,549
+35.png,Solar Panels,694,146,1627,735
+35.png,Body,852,432,1198,607
+35.png,Body,912,431,1186,556
+35.png,Large Antenna,1073,634,1184,672
+35.png,Large Antenna,784,399,837,458
+35.png,Small Antenna,813,449,1134,641
+36.png,Solar Panels,1093,500,1873,708
+36.png,Solar Panels,237,265,895,458
+36.png,Body,852,389,1131,627
+36.png,Large Antenna,875,455,987,514
+36.png,Small Antenna,871,482,1093,582
+37.png,Solar Panels,739,466,1157,700
+37.png,Solar Panels,1158,462,1251,577
+37.png,Body,1015,484,1222,607
+37.png,Large Antenna,932,661,1011,715
+37.png,Large Antenna,930,368,1011,426
+37.png,Small Antenna,935,601,1042,664
+37.png,Small Antenna,907,421,1042,493
+38.png,Solar Panels,1021,645,1447,838
+38.png,Solar Panels,152,267,831,571
+38.png,Body,733,459,1068,682
+38.png,Large Antenna,992,597,1076,662
+38.png,Large Antenna,851,464,934,497
+38.png,Small Antenna,843,549,1063,643
+38.png,Small Antenna,801,517,841,534
+39.png,Solar Panels,80,510,833,813
+39.png,Solar Panels,995,358,1404,564
+39.png,Body,737,473,1066,608
+39.png,Body,927,531,1011,566
+39.png,Large Antenna,985,646,1063,699
+39.png,Large Antenna,842,374,947,424
+39.png,Small Antenna,893,423,1056,651
+39.png,Small Antenna,798,486,842,511
+40.png,Solar Panels,981,515,1187,997
+40.png,Solar Panels,979,207,1118,439
+40.png,Body,830,424,1224,610
+40.png,Body,946,500,991,534
+40.png,Large Antenna,1085,604,1175,647
+40.png,Large Antenna,793,418,830,483
+40.png,Small Antenna,1094,580,1121,599
+40.png,Small Antenna,817,445,989,539
+41.png,Solar Panels,193,509,1000,824
+41.png,Solar Panels,1160,356,1598,573
+41.png,Body,865,473,1211,618
+41.png,Large Antenna,973,646,1072,704
+41.png,Large Antenna,881,369,970,428
+41.png,Small Antenna,936,608,1030,654
+41.png,Small Antenna,881,420,1098,510
+42.png,Solar Panels,990,529,1066,607
+42.png,Solar Panels,414,413,864,618
+42.png,Body,768,480,1109,598
+42.png,Large Antenna,898,657,979,712
+42.png,Large Antenna,911,368,990,420
+42.png,Small Antenna,820,590,1003,662
+42.png,Small Antenna,826,418,1010,486
+43.png,Solar Panels,365,45,1449,823
+43.png,Body,829,417,1107,620
+43.png,Large Antenna,702,558,785,601
+43.png,Large Antenna,1138,451,1244,513
+43.png,Small Antenna,772,477,896,593
+43.png,Small Antenna,1000,440,1148,550
+44.png,Solar Panels,705,471,878,720
+44.png,Body,799,482,1106,617
+44.png,Body,691,520,749,625
+44.png,Large Antenna,970,652,1031,712
+44.png,Large Antenna,852,378,937,425
+44.png,Small Antenna,989,595,1036,657
+44.png,Small Antenna,827,422,972,507
+45.png,Solar Panels,1122,547,1597,886
+45.png,Solar Panels,504,66,988,450
+45.png,Body,872,419,1211,615
+45.png,Large Antenna,893,498,1084,559
+45.png,Small Antenna,886,450,1027,571
+45.png,Small Antenna,1085,528,1126,558
+46.png,Solar Panels,121,473,894,614
+46.png,Solar Panels,1062,467,1821,608
+46.png,Body,878,484,1062,599
+46.png,Large Antenna,921,657,1031,710
+46.png,Large Antenna,911,372,1022,426
+46.png,Small Antenna,862,583,1082,663
+46.png,Small Antenna,859,420,1080,498
+47.png,Solar Panels,174,254,1363,961
+47.png,Body,726,473,1107,622
+47.png,Body,983,570,1028,597
+47.png,Body,773,516,813,547
+47.png,Large Antenna,1052,630,1115,684
+47.png,Large Antenna,745,400,859,450
+47.png,Small Antenna,775,518,1083,642
+47.png,Small Antenna,825,443,946,518
+48.png,Solar Panels,926,447,1889,609
+48.png,Solar Panels,195,444,786,573
+48.png,Body,766,429,1060,600
+48.png,Body,1018,495,1076,547
+48.png,Large Antenna,843,650,956,695
+48.png,Large Antenna,980,379,1076,439
+48.png,Small Antenna,802,434,1066,654
+49.png,Solar Panels,92,505,865,817
+49.png,Solar Panels,1018,232,1673,453
+49.png,Body,780,392,1088,625
+49.png,Large Antenna,1063,565,1160,607
+49.png,Large Antenna,788,470,816,503
+49.png,Small Antenna,893,477,1107,595
+49.png,Small Antenna,795,492,829,516
+50.png,Solar Panels,192,207,1245,758
+50.png,Body,700,468,1115,615
+50.png,Body,792,564,969,593
+50.png,Large Antenna,858,645,954,705
+50.png,Large Antenna,944,387,1019,432
+50.png,Small Antenna,794,427,1028,652
+51.png,Solar Panels,1037,57,1107,846
+51.png,Body,826,468,1217,612
+51.png,Body,1026,537,1059,569
+51.png,Large Antenna,916,627,991,686
+51.png,Large Antenna,955,407,1028,458
+51.png,Small Antenna,907,539,1062,632
+51.png,Small Antenna,931,445,1060,472
+52.png,Solar Panels,1180,491,1523,622
+52.png,Solar Panels,252,470,1045,661
+52.png,Body,889,484,1213,634
+52.png,Large Antenna,869,651,948,713
+52.png,Large Antenna,966,376,1066,428
+52.png,Small Antenna,880,604,968,657
+52.png,Small Antenna,920,424,1120,505
+53.png,Solar Panels,352,542,839,977
+53.png,Solar Panels,926,77,1449,467
+53.png,Body,710,426,1075,608
+53.png,Large Antenna,1072,555,1141,611
+53.png,Small Antenna,789,474,1104,597
+54.png,Solar Panels,1022,637,1438,766
+54.png,Solar Panels,135,360,872,591
+54.png,Body,763,456,1086,695
+54.png,Body,923,571,983,597
+54.png,Large Antenna,1119,551,1202,603
+54.png,Large Antenna,738,507,837,543
+54.png,Small Antenna,925,526,1124,628
+54.png,Small Antenna,815,508,857,529
+55.png,Solar Panels,794,601,1052,1056
+55.png,Solar Panels,742,229,933,514
+55.png,Body,712,480,1109,647
+55.png,Body,804,554,841,589
+55.png,Large Antenna,1081,574,1118,631
+55.png,Large Antenna,716,445,832,493
+55.png,Small Antenna,797,467,1098,634
+55.png,Small Antenna,806,556,838,587
+56.png,Solar Panels,61,471,1010,688
+56.png,Solar Panels,1150,428,1684,591
+56.png,Body,858,463,1169,604
+56.png,Large Antenna,944,657,1050,714
+56.png,Large Antenna,870,367,967,429
+56.png,Small Antenna,906,587,1113,664
+56.png,Small Antenna,866,422,983,489
+57.png,Solar Panels,1071,539,1791,885
+57.png,Solar Panels,187,166,943,491
+57.png,Body,849,424,1158,613
+57.png,Large Antenna,775,625,875,671
+57.png,Large Antenna,1063,416,1160,466
+57.png,Small Antenna,833,504,1144,636
+57.png,Small Antenna,846,518,890,549
+58.png,Solar Panels,369,472,738,611
+58.png,Solar Panels,882,442,1711,636
+58.png,Body,728,479,1040,602
+58.png,Large Antenna,914,656,1007,715
+58.png,Large Antenna,915,366,1009,425
+58.png,Small Antenna,929,595,1028,661
+58.png,Small Antenna,928,418,1026,486
+59.png,Solar Panels,1019,628,1704,831
+59.png,Solar Panels,77,302,862,582
+59.png,Body,785,454,1088,691
+59.png,Large Antenna,807,581,823,600
+59.png,Large Antenna,1043,484,1145,526
+59.png,Small Antenna,964,491,1098,607
+59.png,Small Antenna,799,536,938,591
+60.png,Solar Panels,761,352,1530,950
+60.png,Body,852,474,1194,659
+60.png,Body,877,523,980,581
+60.png,Large Antenna,775,616,823,675
+60.png,Large Antenna,1091,419,1203,455
+60.png,Small Antenna,807,559,994,637
+60.png,Small Antenna,999,444,1133,558
+61.png,Solar Panels,890,598,1408,1018
+61.png,Solar Panels,483,266,805,500
+61.png,Body,711,458,1067,672
+61.png,Large Antenna,1059,564,1116,612
+61.png,Large Antenna,743,482,862,530
+61.png,Small Antenna,851,489,1091,639
+62.png,Solar Panels,884,651,1151,790
+62.png,Solar Panels,611,262,1064,584
+62.png,Body,832,541,1072,687
+62.png,Large Antenna,655,528,754,575
+62.png,Large Antenna,1170,524,1275,571
+62.png,Small Antenna,1039,512,1178,622
+62.png,Small Antenna,747,528,847,577
+63.png,Solar Panels,867,569,1053,894
+63.png,Solar Panels,870,180,1056,499
+63.png,Body,885,499,1039,575
+63.png,Large Antenna,732,514,806,560
+63.png,Large Antenna,1118,513,1191,559
+63.png,Small Antenna,1018,491,1126,583
+63.png,Small Antenna,797,491,905,583
+64.png,Solar Panels,832,569,996,902
+64.png,Solar Panels,836,172,1000,535
+64.png,Body,815,499,1049,575
+64.png,Large Antenna,1096,515,1138,558
+64.png,Large Antenna,736,513,825,561
+64.png,Small Antenna,821,490,901,584
+64.png,Small Antenna,1032,510,1103,564
+65.png,Solar Panels,829,569,931,911
+65.png,Solar Panels,834,163,935,505
+65.png,Body,766,500,1070,575
+65.png,Large Antenna,806,512,889,561
+65.png,Small Antenna,846,489,954,585
+65.png,Small Antenna,1011,511,1050,563
+66.png,Body,767,500,1063,575
+66.png,Large Antenna,920,512,980,561
+66.png,Small Antenna,879,488,903,586
+67.png,Solar Panels,836,570,926,924
+67.png,Solar Panels,838,150,928,503
+67.png,Body,761,500,1065,575
+67.png,Large Antenna,1035,512,1065,561
+67.png,Small Antenna,927,488,1051,586
+68.png,Solar Panels,831,571,1000,924
+68.png,Solar Panels,831,150,999,503
+68.png,Body,799,500,1039,575
+68.png,Large Antenna,749,514,805,559
+68.png,Large Antenna,1101,513,1156,561
+68.png,Small Antenna,983,488,1106,586
+69.png,Solar Panels,862,571,1061,919
+69.png,Solar Panels,860,155,1058,503
+69.png,Body,879,500,1042,575
+69.png,Large Antenna,1116,514,1196,560
+69.png,Large Antenna,725,513,805,559
+69.png,Small Antenna,1028,488,1124,585
+69.png,Small Antenna,797,488,893,585
+70.png,Solar Panels,922,571,1094,924
+70.png,Solar Panels,918,150,1089,503
+70.png,Body,877,500,1122,575
+70.png,Large Antenna,1116,515,1171,559
+70.png,Large Antenna,765,512,820,560
+70.png,Small Antenna,815,488,938,586
+71.png,Solar Panels,994,570,1089,924
+71.png,Solar Panels,989,149,1085,503
+71.png,Body,855,499,1161,576
+71.png,Large Antenna,856,512,886,560
+71.png,Small Antenna,870,488,994,586
+72.png,Body,858,499,1155,575
+72.png,Large Antenna,942,511,1002,561
+72.png,Small Antenna,1019,488,1043,586
+73.png,Solar Panels,992,569,1090,911
+73.png,Solar Panels,991,162,1088,505
+73.png,Body,856,499,1156,576
+73.png,Large Antenna,1033,511,1117,560
+73.png,Small Antenna,985,489,1077,585
+73.png,Small Antenna,873,510,912,562
+74.png,Solar Panels,926,569,1088,902
+74.png,Solar Panels,926,172,1089,501
+74.png,Body,879,499,1108,576
+74.png,Body,1002,524,1019,550
+74.png,Large Antenna,786,515,827,559
+74.png,Large Antenna,1098,512,1187,560
+74.png,Small Antenna,1022,490,1102,584
+74.png,Small Antenna,820,510,891,563
+75.png,Solar Panels,1085,534,1559,751
+75.png,Solar Panels,525,256,973,479
+75.png,Body,860,441,1134,582
+75.png,Large Antenna,937,500,1015,543
+75.png,Small Antenna,923,475,1084,560
+76.png,Solar Panels,303,490,887,602
+76.png,Solar Panels,1011,479,1594,589
+76.png,Body,885,497,1023,584
+76.png,Large Antenna,918,628,1001,668
+76.png,Large Antenna,905,413,988,454
+76.png,Small Antenna,872,572,1038,632
+76.png,Small Antenna,867,450,1033,510
+77.png,Solar Panels,1008,584,1159,851
+77.png,Solar Panels,900,159,1073,500
+77.png,Body,847,478,1160,584
+77.png,Large Antenna,1032,556,1115,599
+77.png,Large Antenna,867,492,896,519
+77.png,Small Antenna,960,479,1070,591
+78.png,Solar Panels,707,490,1041,638
+78.png,Solar Panels,1136,481,1252,582
+78.png,Body,977,498,1155,588
+78.png,Large Antenna,939,631,1001,671
+78.png,Large Antenna,933,411,994,455
+78.png,Small Antenna,934,607,972,633
+78.png,Small Antenna,916,452,1009,504
+79.png,Solar Panels,553,210,1255,704
+79.png,Body,865,436,1051,604
+79.png,Large Antenna,746,548,818,578
+79.png,Large Antenna,1106,484,1180,526
+79.png,Small Antenna,812,490,904,574
+79.png,Small Antenna,993,467,1111,548
+80.png,Solar Panels,488,611,948,831
+80.png,Solar Panels,1081,355,1549,551
+80.png,Body,883,480,1122,647
+80.png,Large Antenna,952,537,1035,579
+80.png,Small Antenna,919,524,1080,611
+81.png,Solar Panels,491,369,1375,595
+81.png,Body,876,432,1140,601
+81.png,Body,988,523,1030,545
+81.png,Large Antenna,1033,597,1116,615
+81.png,Small Antenna,965,524,1052,603
+82.png,Solar Panels,968,586,1518,839
+82.png,Solar Panels,376,291,874,545
+82.png,Body,810,490,1055,635
+82.png,Large Antenna,835,611,876,632
+82.png,Large Antenna,1028,458,1096,491
+82.png,Small Antenna,969,480,1063,569
+83.png,Solar Panels,913,547,1498,683
+83.png,Solar Panels,491,500,816,594
+83.png,Body,787,484,1034,646
+83.png,Body,909,528,953,550
+83.png,Large Antenna,1019,609,1074,643
+83.png,Large Antenna,827,456,910,476
+83.png,Small Antenna,880,471,1036,604
+84.png,Solar Panels,757,195,1328,879
+84.png,Body,876,457,1157,589
+84.png,Large Antenna,1083,542,1106,564
+84.png,Large Antenna,831,501,872,547
+84.png,Small Antenna,970,537,1087,565
+84.png,Small Antenna,859,472,955,561
+85.png,Solar Panels,473,301,1530,810
+85.png,Body,819,455,1059,593
+85.png,Large Antenna,786,606,869,640
+85.png,Large Antenna,1067,438,1132,484
+85.png,Small Antenna,833,475,1087,614
+86.png,Solar Panels,997,206,1094,785
+86.png,Body,854,485,1157,596
+86.png,Large Antenna,945,605,1005,647
+86.png,Large Antenna,943,449,996,488
+86.png,Small Antenna,930,477,1040,607
+87.png,Solar Panels,528,314,1508,756
+87.png,Body,830,492,1054,644
+87.png,Body,928,515,978,552
+87.png,Large Antenna,1081,582,1147,626
+87.png,Large Antenna,765,464,848,491
+87.png,Small Antenna,1041,554,1095,592
+87.png,Small Antenna,833,480,943,566
+88.png,Solar Panels,566,591,858,638
+88.png,Solar Panels,974,513,1523,588
+88.png,Body,855,487,1061,652
+88.png,Large Antenna,757,510,835,538
+88.png,Small Antenna,1059,533,1089,552
+88.png,Small Antenna,829,510,929,532
+89.png,Solar Panels,667,396,1195,789
+89.png,Body,762,492,1037,615
+89.png,Body,901,511,931,536
+89.png,Large Antenna,941,636,977,661
+89.png,Large Antenna,908,424,971,460
+89.png,Small Antenna,902,458,996,534
+90.png,Solar Panels,1060,555,1522,786
+90.png,Solar Panels,368,272,954,546
+90.png,Body,875,490,1112,611
+90.png,Large Antenna,820,613,889,657
+90.png,Large Antenna,1042,434,1125,473
+90.png,Small Antenna,863,467,1070,619
+91.png,Solar Panels,895,505,1202,692
+91.png,Solar Panels,826,366,1022,460
+91.png,Body,878,429,1071,601
+91.png,Large Antenna,1116,528,1191,560
+91.png,Large Antenna,732,507,805,543
+91.png,Small Antenna,801,478,911,557
+92.png,Solar Panels,981,490,1634,611
+92.png,Solar Panels,317,487,839,597
+92.png,Body,840,498,1032,594
+92.png,Large Antenna,911,627,991,672
+92.png,Large Antenna,911,412,992,454
+92.png,Small Antenna,910,585,1018,631
+92.png,Small Antenna,908,450,1018,508
+93.png,Solar Panels,1139,509,1648,570
+93.png,Solar Panels,334,413,840,476
+93.png,Body,894,431,1061,591
+93.png,Large Antenna,919,519,1007,553
+94.png,Solar Panels,383,503,830,654
+94.png,Solar Panels,938,390,1611,573
+94.png,Body,816,483,1038,588
+94.png,Large Antenna,955,625,1031,668
+94.png,Large Antenna,897,412,976,456
+94.png,Small Antenna,924,450,1033,631
+95.png,Solar Panels,837,499,1028,724
+95.png,Solar Panels,806,375,939,467
+95.png,Body,771,442,1064,571
+95.png,Large Antenna,788,602,845,627
+95.png,Large Antenna,1060,432,1092,478
+95.png,Small Antenna,953,473,1073,520
+96.png,Solar Panels,993,493,1199,591
+96.png,Solar Panels,407,475,912,606
+96.png,Body,790,497,1072,584
+96.png,Large Antenna,922,628,984,670
+96.png,Large Antenna,915,413,979,449
+96.png,Small Antenna,919,449,1000,632
+97.png,Solar Panels,761,340,1393,737
+97.png,Body,882,432,1144,603
+97.png,Body,953,493,994,515
+97.png,Large Antenna,1050,574,1125,599
+97.png,Large Antenna,811,456,854,502
+97.png,Small Antenna,842,492,1065,588
+98.png,Solar Panels,788,206,1312,912
+98.png,Body,873,497,1159,607
+98.png,Body,965,540,982,564
+98.png,Large Antenna,1009,550,1090,599
+98.png,Large Antenna,875,503,905,541
+98.png,Small Antenna,884,501,1083,610
+99.png,Solar Panels,1073,536,1537,773
+99.png,Solar Panels,553,233,977,481
+99.png,Body,853,446,1141,585
+99.png,Large Antenna,904,489,1057,582
+99.png,Small Antenna,904,472,1094,579
+100.png,Solar Panels,595,426,1202,528
+100.png,Body,870,428,1101,599
+100.png,Large Antenna,1103,554,1184,578
+100.png,Large Antenna,772,488,829,524
+100.png,Small Antenna,1011,554,1107,579
+100.png,Small Antenna,823,515,872,539
+101.png,Solar Panels,737,481,1032,635
+101.png,Solar Panels,1125,462,1238,559
+101.png,Body,937,474,1168,580
+101.png,Large Antenna,987,626,1056,661
+101.png,Large Antenna,898,411,949,457
+101.png,Small Antenna,902,453,1011,629
+102.png,Solar Panels,1047,496,1644,665
+102.png,Solar Panels,451,375,907,525
+102.png,Body,883,447,1086,597
+102.png,Large Antenna,925,605,997,625
+102.png,Large Antenna,914,425,995,473
+102.png,Small Antenna,903,469,1063,609
+103.png,Solar Panels,1004,555,1629,734
+103.png,Solar Panels,365,426,889,583
+103.png,Body,880,486,1050,631
+103.png,Large Antenna,848,611,931,659
+103.png,Large Antenna,1003,452,1081,476
+103.png,Small Antenna,863,469,1076,617
+104.png,Solar Panels,576,499,916,612
+104.png,Solar Panels,1024,448,1631,590
+104.png,Body,859,495,1123,586
+104.png,Large Antenna,945,632,1019,670
+104.png,Large Antenna,928,415,998,455
+104.png,Small Antenna,918,451,1006,632
+105.png,Solar Panels,979,533,1633,707
+105.png,Solar Panels,314,425,845,586
+105.png,Body,833,492,1037,625
+105.png,Large Antenna,887,620,966,660
+105.png,Large Antenna,936,426,1018,460
+105.png,Small Antenna,918,457,1027,533
+106.png,Solar Panels,992,519,1248,641
+106.png,Solar Panels,388,424,858,591
+106.png,Body,791,494,1030,604
+106.png,Body,857,527,990,598
+106.png,Large Antenna,943,626,1006,672
+106.png,Large Antenna,912,424,978,455
+106.png,Small Antenna,940,580,1015,631
+106.png,Small Antenna,933,454,1002,501
+107.png,Solar Panels,310,489,956,657
+107.png,Solar Panels,1094,425,1564,562
+107.png,Body,871,468,1113,588
+107.png,Large Antenna,982,623,1065,662
+107.png,Large Antenna,882,413,955,459
+107.png,Small Antenna,891,454,1092,629
+108.png,Solar Panels,697,340,1168,665
+108.png,Body,764,485,1041,589
+108.png,Body,910,562,937,584
+108.png,Large Antenna,936,624,995,667
+108.png,Large Antenna,913,415,968,451
+108.png,Small Antenna,912,564,1009,627
+109.png,Solar Panels,370,542,892,808
+109.png,Solar Panels,985,243,1534,502
+109.png,Body,828,457,1057,591
+109.png,Large Antenna,1048,600,1120,636
+109.png,Large Antenna,812,438,893,482
+109.png,Small Antenna,978,523,1076,608
+110.png,Solar Panels,703,406,1178,655
+110.png,Solar Panels,739,569,797,631
+110.png,Body,757,506,964,619
+110.png,Large Antenna,1013,618,1057,665
+110.png,Large Antenna,835,428,910,459
+110.png,Small Antenna,992,577,1045,623
+110.png,Small Antenna,892,455,931,489
+111.png,Solar Panels,692,420,1264,693
+111.png,Body,917,469,1168,588
+111.png,Large Antenna,1000,623,1072,657
+111.png,Large Antenna,884,412,934,459
+111.png,Small Antenna,984,605,1022,627
+111.png,Small Antenna,893,454,984,504
+112.png,Solar Panels,716,258,1337,899
+112.png,Body,846,494,1166,620
+112.png,Large Antenna,899,492,1069,584
+112.png,Small Antenna,951,497,1088,605
+113.png,Solar Panels,721,475,872,615
+113.png,Body,840,496,1069,592
+113.png,Large Antenna,950,627,1000,671
+113.png,Large Antenna,894,416,953,452
+113.png,Small Antenna,935,449,1005,631
+114.png,Solar Panels,938,559,1494,735
+114.png,Solar Panels,446,450,812,576
+114.png,Body,779,498,1067,644
+114.png,Body,916,530,959,554
+114.png,Large Antenna,974,599,1035,641
+114.png,Large Antenna,855,453,930,475
+114.png,Small Antenna,891,471,1017,602
+115.png,Solar Panels,795,345,1336,730
+115.png,Body,880,430,1134,604
+115.png,Body,934,493,974,515
+115.png,Large Antenna,791,463,835,507
+115.png,Small Antenna,832,495,973,537
+116.png,Solar Panels,503,360,1602,801
+116.png,Body,864,491,1100,616
+116.png,Large Antenna,826,614,891,659
+116.png,Large Antenna,1038,438,1120,472
+116.png,Small Antenna,862,465,1070,622
+116.png,Small Antenna,1067,524,1096,545
+117.png,Solar Panels,834,272,1284,918
+117.png,Body,851,493,1147,613
+117.png,Body,1068,546,1094,572
+117.png,Large Antenna,830,582,863,626
+117.png,Large Antenna,1064,464,1150,503
+117.png,Small Antenna,996,487,1092,570
+117.png,Small Antenna,851,546,912,600
+118.png,Solar Panels,771,545,1064,894
+118.png,Solar Panels,973,229,1199,477
+118.png,Body,859,457,1143,586
+118.png,Large Antenna,1076,570,1157,607
+118.png,Large Antenna,791,456,838,503
+118.png,Small Antenna,831,485,1083,589
+118.png,Small Antenna,936,465,970,482
+119.png,Solar Panels,607,489,806,592
+119.png,Solar Panels,903,480,1296,618
+119.png,Body,765,498,958,587
+119.png,Large Antenna,917,628,980,671
+119.png,Large Antenna,920,412,982,454
+119.png,Small Antenna,914,582,992,631
+119.png,Small Antenna,915,450,993,502
+120.png,Solar Panels,369,484,844,522
+120.png,Solar Panels,1044,452,1660,499
+120.png,Body,884,428,1052,601
+120.png,Large Antenna,1035,542,1082,566
+120.png,Large Antenna,841,495,926,532
+120.png,Small Antenna,877,523,983,547
+121.png,Solar Panels,977,486,1664,640
+121.png,Solar Panels,327,408,866,538
+121.png,Body,856,443,1050,587
+121.png,Large Antenna,852,614,938,641
+121.png,Large Antenna,996,431,1073,476
+121.png,Small Antenna,848,472,1063,617
+122.png,Solar Panels,573,275,1400,881
+122.png,Body,846,488,1157,621
+122.png,Large Antenna,983,605,1040,623
+122.png,Large Antenna,900,452,960,488
+122.png,Small Antenna,902,479,1060,564
+123.png,Solar Panels,335,486,966,646
+123.png,Solar Panels,1104,437,1536,565
+123.png,Body,870,469,1125,587
+123.png,Large Antenna,980,624,1062,662
+123.png,Large Antenna,887,412,957,459
+123.png,Small Antenna,893,454,1093,629
+124.png,Solar Panels,366,471,832,567
+124.png,Solar Panels,939,467,1623,579
+124.png,Body,821,458,1046,584
+124.png,Large Antenna,879,622,963,655
+124.png,Large Antenna,970,419,1043,464
+124.png,Small Antenna,844,460,1038,625
+125.png,Solar Panels,886,564,1035,825
+125.png,Solar Panels,888,250,1037,507
+125.png,Body,900,508,1023,568
+125.png,Large Antenna,777,520,837,556
+125.png,Large Antenna,1086,519,1146,555
+125.png,Small Antenna,1007,501,1093,575
+125.png,Small Antenna,830,501,916,575
+126.png,Solar Panels,857,564,989,830
+126.png,Solar Panels,861,245,993,536
+126.png,Body,843,508,1031,568
+126.png,Large Antenna,1070,520,1103,555
+126.png,Large Antenna,783,519,853,556
+126.png,Small Antenna,850,500,913,575
+126.png,Small Antenna,1018,517,1075,559
+127.png,Solar Panels,856,239,940,836
+127.png,Body,805,508,1047,568
+127.png,Large Antenna,839,518,904,557
+127.png,Small Antenna,869,500,942,576
+127.png,Small Antenna,1001,517,1032,557
+128.png,Body,807,508,1042,567
+128.png,Large Antenna,929,518,976,557
+128.png,Small Antenna,896,499,915,576
+129.png,Solar Panels,861,231,935,844
+129.png,Body,801,508,1022,568
+129.png,Large Antenna,1020,519,1043,557
+129.png,Small Antenna,934,499,1032,577
+130.png,Solar Panels,857,564,992,844
+130.png,Solar Panels,857,231,991,511
+130.png,Body,833,508,1023,568
+130.png,Large Antenna,791,520,837,555
+130.png,Large Antenna,1073,519,1115,556
+130.png,Small Antenna,979,499,1076,577
+131.png,Solar Panels,883,565,1041,841
+131.png,Solar Panels,880,234,1038,511
+131.png,Body,897,508,1024,568
+131.png,Large Antenna,1085,520,1148,556
+131.png,Large Antenna,773,519,836,555
+131.png,Small Antenna,1014,499,1092,576
+131.png,Small Antenna,829,499,907,576
+132.png,Solar Panels,930,565,1067,844
+132.png,Solar Panels,927,231,1063,511
+132.png,Body,897,508,1088,568
+132.png,Large Antenna,1084,520,1130,556
+132.png,Large Antenna,806,518,848,556
+132.png,Small Antenna,845,499,942,577
+133.png,Solar Panels,983,231,1064,844
+133.png,Body,877,508,1120,568
+133.png,Large Antenna,878,518,902,556
+133.png,Small Antenna,889,499,987,577
+134.png,Body,879,508,1115,568
+134.png,Large Antenna,946,518,993,556
+134.png,Small Antenna,1007,499,1026,576
+135.png,Solar Panels,985,239,1063,836
+135.png,Body,898,508,1118,569
+135.png,Large Antenna,1018,518,1084,556
+135.png,Small Antenna,980,500,1053,576
+135.png,Small Antenna,890,516,921,558
+136.png,Solar Panels,933,564,1063,830
+136.png,Solar Panels,933,245,1063,509
+136.png,Body,896,508,1080,569
+136.png,Large Antenna,820,520,853,555
+136.png,Large Antenna,1070,518,1140,556
+136.png,Small Antenna,1010,500,1073,575
+136.png,Small Antenna,848,516,905,559
+137.png,Solar Panels,576,321,1407,669
+137.png,Body,881,460,1032,575
+137.png,Large Antenna,1040,571,1097,590
+137.png,Large Antenna,807,478,867,514
+137.png,Small Antenna,854,504,1055,582
+138.png,Solar Panels,758,338,989,713
+138.png,Body,796,497,1050,604
+138.png,Large Antenna,981,591,1017,628
+138.png,Large Antenna,880,463,933,488
+138.png,Small Antenna,907,482,1014,594
+139.png,Solar Panels,578,356,1222,699
+139.png,Body,844,455,1036,589
+139.png,Body,955,520,989,538
+139.png,Large Antenna,805,524,859,546
+139.png,Large Antenna,1069,520,1116,549
+139.png,Small Antenna,996,528,1073,557
+140.png,Solar Panels,458,372,1492,726
+140.png,Body,898,498,1051,604
+140.png,Large Antenna,1005,595,1070,630
+140.png,Large Antenna,862,452,926,481
+140.png,Small Antenna,882,475,971,541
+141.png,Solar Panels,448,456,1469,700
+141.png,Solar Panels,1128,489,1321,554
+141.png,Solar Panels,1341,474,1394,510
+141.png,Body,890,490,1025,627
+141.png,Large Antenna,979,579,1048,617
+141.png,Small Antenna,889,498,1022,586
+142.png,Solar Panels,1009,506,1055,581
+142.png,Solar Panels,653,483,875,586
+142.png,Body,844,506,1050,575
+142.png,Large Antenna,925,610,973,644
+142.png,Large Antenna,930,438,977,468
+142.png,Small Antenna,948,467,990,613
+143.png,Solar Panels,937,604,1145,784
+143.png,Solar Panels,774,289,1031,547
+143.png,Body,893,505,1068,618
+143.png,Large Antenna,791,557,845,592
+143.png,Large Antenna,1078,503,1145,531
+143.png,Small Antenna,836,508,1086,575
+144.png,Solar Panels,1043,509,1468,639
+144.png,Solar Panels,452,378,943,512
+144.png,Body,896,453,1059,577
+144.png,Large Antenna,918,582,970,598
+144.png,Small Antenna,908,521,985,586
+145.png,Solar Panels,458,453,1490,669
+145.png,Body,900,502,1023,603
+145.png,Large Antenna,875,601,941,639
+145.png,Large Antenna,969,457,1033,479
+145.png,Small Antenna,878,475,1018,606
+146.png,Solar Panels,869,569,1040,841
+146.png,Solar Panels,819,263,985,542
+146.png,Body,852,507,1031,574
+146.png,Large Antenna,780,521,850,559
+146.png,Large Antenna,1071,519,1107,554
+146.png,Small Antenna,1017,515,1076,558
+146.png,Small Antenna,847,506,913,559
+147.png,Solar Panels,654,495,895,518
+147.png,Solar Panels,999,478,1409,509
+147.png,Body,891,451,1058,588
+147.png,Large Antenna,1059,542,1119,562
+147.png,Large Antenna,807,506,864,534
+147.png,Small Antenna,860,527,937,545
+148.png,Solar Panels,818,479,1024,501
+148.png,Body,889,494,1024,588
+148.png,Body,885,454,1015,485
+148.png,Large Antenna,777,533,838,555
+148.png,Large Antenna,1090,517,1142,541
+148.png,Small Antenna,1022,534,1092,550
+149.png,Solar Panels,685,437,1508,679
+149.png,Solar Panels,562,412,710,510
+149.png,Body,884,496,1075,583
+149.png,Large Antenna,905,606,962,636
+149.png,Large Antenna,973,442,1039,477
+149.png,Small Antenna,908,473,1020,612
+150.png,Solar Panels,707,257,1129,715
+150.png,Body,864,465,1031,588
+150.png,Large Antenna,779,554,844,580
+150.png,Large Antenna,1083,488,1129,523
+150.png,Small Antenna,838,508,1084,573
+151.png,Solar Panels,861,571,973,735
+151.png,Solar Panels,833,256,968,504
+151.png,Body,821,475,1036,582
+151.png,Large Antenna,800,570,868,597
+151.png,Large Antenna,1053,485,1077,520
+151.png,Small Antenna,863,506,1060,584
+152.png,Solar Panels,1000,232,1056,843
+152.png,Body,875,508,1122,569
+152.png,Large Antenna,895,521,929,560
+152.png,Small Antenna,912,501,1000,578
+153.png,Solar Panels,1052,504,1251,596
+153.png,Solar Panels,1244,512,1464,606
+153.png,Solar Panels,426,467,942,579
+153.png,Body,896,503,1056,578
+153.png,Large Antenna,912,610,975,645
+153.png,Large Antenna,938,437,1003,472
+153.png,Small Antenna,903,469,996,614
+154.png,Solar Panels,1102,503,1152,581
+154.png,Solar Panels,849,484,1027,590
+154.png,Body,993,505,1117,575
+154.png,Large Antenna,944,613,991,645
+154.png,Large Antenna,942,438,989,472
+154.png,Small Antenna,936,469,967,614
+155.png,Solar Panels,678,245,1144,824
+155.png,Body,798,493,1054,580
+155.png,Large Antenna,1015,554,1048,589
+155.png,Small Antenna,913,511,1034,583
+156.png,Solar Panels,838,454,977,653
+156.png,Body,800,493,1050,575
+156.png,Large Antenna,902,618,925,638
+156.png,Large Antenna,959,437,998,470
+156.png,Small Antenna,902,470,1000,511
+157.png,Solar Panels,549,351,1371,754
+157.png,Body,879,486,1100,581
+157.png,Large Antenna,1018,595,1083,626
+157.png,Large Antenna,860,447,908,482
+157.png,Small Antenna,885,476,1040,602
+158.png,Solar Panels,937,581,1288,758
+158.png,Solar Panels,644,433,849,531
+158.png,Body,832,489,1035,629
+158.png,Large Antenna,1048,550,1087,579
+158.png,Large Antenna,810,514,879,539
+158.png,Small Antenna,876,515,1059,583
+159.png,Solar Panels,886,247,1192,818
+159.png,Body,890,489,1122,574
+159.png,Large Antenna,957,494,1009,533
+159.png,Small Antenna,938,486,1044,559
+160.png,Solar Panels,699,446,1245,744
+160.png,Body,846,508,1037,624
+160.png,Large Antenna,1068,541,1107,568
+160.png,Large Antenna,785,518,850,544
+160.png,Small Antenna,1029,536,1069,554
+160.png,Small Antenna,849,516,923,542
+161.png,Solar Panels,689,424,1387,611
+161.png,Body,891,451,1079,579
+161.png,Large Antenna,1058,543,1118,563
+161.png,Large Antenna,815,508,866,537
+161.png,Small Antenna,861,528,1068,565
+162.png,Solar Panels,1176,534,1501,624
+162.png,Solar Panels,1028,514,1189,558
+162.png,Solar Panels,468,398,937,495
+162.png,Body,903,452,1060,567
+162.png,Large Antenna,900,554,965,576
+162.png,Small Antenna,908,548,989,572
+163.png,Solar Panels,721,310,1375,721
+163.png,Body,894,494,1103,579
+163.png,Large Antenna,1010,600,1076,629
+163.png,Large Antenna,867,457,904,490
+163.png,Small Antenna,884,484,1064,603
+164.png,Solar Panels,427,527,922,684
+164.png,Solar Panels,1012,418,1429,561
+164.png,Solar Panels,1387,403,1510,500
+164.png,Body,899,501,1034,589
+164.png,Large Antenna,985,604,1051,640
+164.png,Large Antenna,882,441,948,474
+164.png,Small Antenna,881,469,1054,609
+165.png,Solar Panels,662,267,1307,820
+165.png,Body,883,504,1063,604
+165.png,Large Antenna,1063,562,1125,597
+165.png,Large Antenna,794,493,849,526
+165.png,Small Antenna,1039,534,1069,579
+165.png,Small Antenna,844,505,924,574
+166.png,Solar Panels,624,428,1444,740
+166.png,Body,884,496,1075,616
+166.png,Large Antenna,838,591,887,628
+166.png,Large Antenna,1037,474,1101,494
+166.png,Small Antenna,871,488,1056,597
+166.png,Small Antenna,1050,538,1070,554
+167.png,Solar Panels,540,385,1472,653
+167.png,Body,884,451,1059,593
+167.png,Large Antenna,832,541,889,566
+167.png,Large Antenna,1044,505,1077,521
+167.png,Small Antenna,871,540,948,566
+168.png,Solar Panels,637,510,926,608
+168.png,Solar Panels,1036,461,1485,578
+168.png,Body,880,504,1091,579
+168.png,Large Antenna,950,614,1010,644
+168.png,Large Antenna,932,440,989,472
+168.png,Small Antenna,925,469,999,614
+169.png,Solar Panels,595,465,1016,638
+169.png,Solar Panels,1026,432,1122,498
+169.png,Body,801,466,1054,578
+169.png,Body,907,493,940,509
+169.png,Large Antenna,853,595,911,613
+169.png,Large Antenna,1007,450,1042,487
+169.png,Small Antenna,896,485,1029,598
+170.png,Solar Panels,676,268,1354,747
+170.png,Body,870,472,1113,576
+170.png,Large Antenna,999,512,1065,548
+170.png,Small Antenna,906,522,1020,567
+171.png,Solar Panels,912,569,1110,785
+171.png,Solar Panels,805,231,1022,513
+171.png,Body,892,488,1028,577
+171.png,Large Antenna,782,531,838,565
+171.png,Large Antenna,1084,507,1146,543
+171.png,Small Antenna,832,497,904,565
+171.png,Small Antenna,1003,489,1090,559
+172.png,Solar Panels,868,384,1195,805
+172.png,Body,880,496,1100,616
+172.png,Large Antenna,834,578,866,613
+172.png,Large Antenna,1056,482,1124,506
+172.png,Small Antenna,998,497,1065,566
+172.png,Small Antenna,859,548,914,588
+173.png,Solar Panels,858,436,1191,763
+173.png,Body,885,491,1079,619
+173.png,Large Antenna,815,572,851,607
+173.png,Large Antenna,1068,493,1136,512
+173.png,Small Antenna,847,501,1073,581
+174.png,Solar Panels,845,379,953,787
+174.png,Body,800,502,1041,600
+174.png,Large Antenna,967,595,1004,628
+174.png,Large Antenna,892,458,945,486
+174.png,Small Antenna,886,485,1006,601
+175.png,Solar Panels,864,520,1040,775
+175.png,Solar Panels,839,324,981,482
+175.png,Body,835,464,1024,574
+175.png,Large Antenna,791,564,857,589
+175.png,Large Antenna,1073,487,1113,523
+175.png,Small Antenna,851,508,1079,580
+176.png,Solar Panels,697,286,1246,775
+176.png,Body,848,500,1035,611
+176.png,Large Antenna,1072,565,1124,602
+176.png,Large Antenna,789,483,854,511
+176.png,Small Antenna,851,496,1078,578
+177.png,Solar Panels,578,355,1350,672
+177.png,Body,819,482,1016,581
+177.png,Large Antenna,957,603,1009,634
+177.png,Large Antenna,912,444,969,478
+177.png,Small Antenna,935,473,1012,607
+178.png,Solar Panels,441,578,927,671
+178.png,Solar Panels,1041,500,1435,575
+178.png,Body,898,499,1038,631
+178.png,Large Antenna,1015,560,1081,594
+178.png,Large Antenna,863,508,907,525
+178.png,Small Antenna,963,541,1044,568
+179.png,Solar Panels,462,404,1364,721
+179.png,Body,845,490,1032,628
+179.png,Large Antenna,870,539,895,555
+179.png,Large Antenna,1016,525,1070,553
+179.png,Small Antenna,968,520,1029,549
+180.png,Solar Panels,501,565,889,643
+180.png,Solar Panels,990,486,1493,583
+180.png,Body,874,510,1036,629
+180.png,Large Antenna,1024,574,1074,605
+180.png,Small Antenna,884,497,966,526
+181.png,Solar Panels,429,471,1519,655
+181.png,Body,901,506,1030,622
+181.png,Large Antenna,984,595,1036,623
+181.png,Large Antenna,893,469,961,487
+181.png,Small Antenna,906,485,989,521
+182.png,Solar Panels,718,345,1292,807
+182.png,Body,872,505,1121,611
+182.png,Large Antenna,931,480,1016,600
+182.png,Small Antenna,939,501,1004,566
+183.png,Solar Panels,406,503,896,613
+183.png,Solar Panels,1012,476,1365,574
+183.png,Body,854,505,1031,578
+183.png,Large Antenna,933,610,994,642
+183.png,Large Antenna,909,438,973,472
+183.png,Small Antenna,916,468,1000,613
+184.png,Solar Panels,732,324,1337,773
+184.png,Body,901,509,1113,617
+184.png,Large Antenna,852,537,891,571
+184.png,Large Antenna,1040,515,1089,541
+184.png,Small Antenna,883,524,1002,560
+185.png,Solar Panels,623,303,1119,709
+185.png,Body,809,485,1025,585
+185.png,Large Antenna,839,598,904,625
+185.png,Large Antenna,1022,458,1053,492
+185.png,Small Antenna,858,485,1039,603
+186.png,Solar Panels,991,514,1254,622
+186.png,Solar Panels,1046,531,1063,589
+186.png,Solar Panels,471,436,882,571
+186.png,Body,828,504,1018,579
+186.png,Large Antenna,910,610,970,643
+186.png,Large Antenna,956,441,1007,470
+186.png,Small Antenna,929,470,1011,615
+187.png,Solar Panels,898,591,1023,779
+187.png,Solar Panels,900,298,1025,488
+187.png,Body,910,514,1013,564
+187.png,Large Antenna,1066,523,1115,553
+187.png,Large Antenna,808,523,857,553
+187.png,Small Antenna,852,507,1071,569
+188.png,Solar Panels,875,560,985,782
+188.png,Solar Panels,877,294,988,537
+188.png,Body,862,514,1017,563
+188.png,Large Antenna,1052,523,1080,553
+188.png,Large Antenna,813,523,871,554
+188.png,Small Antenna,869,520,1056,556
+189.png,Solar Panels,874,290,943,786
+189.png,Body,831,514,1011,563
+189.png,Large Antenna,860,522,914,554
+189.png,Small Antenna,909,519,1021,556
+190.png,Body,833,514,997,563
+190.png,Large Antenna,935,522,973,554
+191.png,Solar Panels,877,285,939,792
+191.png,Body,828,514,1009,563
+191.png,Large Antenna,1009,523,1029,554
+191.png,Small Antenna,984,519,1020,556
+192.png,Solar Panels,875,561,986,792
+192.png,Solar Panels,875,285,986,516
+192.png,Body,855,514,1013,563
+192.png,Large Antenna,1054,523,1088,554
+192.png,Large Antenna,819,523,858,553
+192.png,Small Antenna,997,520,1057,556
+193.png,Solar Panels,896,590,1027,790
+193.png,Solar Panels,894,287,1025,487
+193.png,Body,908,514,1013,563
+193.png,Large Antenna,1065,523,1117,553
+193.png,Large Antenna,804,523,857,553
+193.png,Small Antenna,1005,506,1070,570
+193.png,Small Antenna,851,506,916,570
+194.png,Solar Panels,936,561,1049,792
+194.png,Solar Panels,933,285,1046,516
+194.png,Body,905,514,1066,564
+194.png,Large Antenna,1063,524,1103,553
+194.png,Large Antenna,833,522,867,553
+194.png,Small Antenna,865,520,924,556
+195.png,Solar Panels,980,284,1047,792
+195.png,Body,909,514,1093,564
+195.png,Large Antenna,893,522,912,553
+195.png,Small Antenna,901,520,938,557
+196.png,Body,923,513,1089,563
+196.png,Large Antenna,949,522,987,554
+197.png,Solar Panels,981,290,1046,786
+197.png,Body,915,513,1092,564
+197.png,Large Antenna,1009,522,1062,553
+197.png,Small Antenna,902,520,1013,557
+198.png,Solar Panels,937,560,1046,782
+198.png,Solar Panels,938,294,1046,515
+198.png,Body,908,513,1060,564
+198.png,Large Antenna,842,524,871,553
+198.png,Large Antenna,1052,522,1110,553
+198.png,Small Antenna,866,520,1054,556
+199.png,Solar Panels,744,319,1164,763
+199.png,Body,902,506,1037,598
+199.png,Large Antenna,817,555,866,585
+199.png,Large Antenna,1060,507,1114,532
+199.png,Small Antenna,858,512,1067,571
+200.png,Solar Panels,848,342,1205,680
+200.png,Body,903,489,1085,575
+200.png,Large Antenna,1017,585,1072,606
+200.png,Large Antenna,877,474,900,503
+200.png,Small Antenna,889,497,1027,590
+201.png,Solar Panels,881,599,1029,748
+201.png,Solar Panels,913,421,1038,525
+201.png,Body,908,515,1023,604
+201.png,Large Antenna,812,534,853,559
+201.png,Large Antenna,1065,525,1118,548
+201.png,Small Antenna,853,521,1070,552
+202.png,Solar Panels,1021,559,1399,590
+202.png,Solar Panels,624,558,894,585
+202.png,Body,903,502,1045,615
+202.png,Large Antenna,866,560,915,588
+202.png,Small Antenna,895,546,960,564
+203.png,Solar Panels,846,576,989,764
+203.png,Solar Panels,887,398,1008,521
+203.png,Body,869,515,1016,603
+203.png,Large Antenna,1057,550,1090,579
+203.png,Large Antenna,810,506,864,528
+203.png,Small Antenna,862,511,1061,564
+204.png,Solar Panels,1042,519,1410,626
+204.png,Solar Panels,853,508,1041,581
+204.png,Solar Panels,1247,550,1271,603
+204.png,Solar Panels,506,466,852,569
+204.png,Body,893,509,1007,580
+204.png,Large Antenna,906,597,960,626
+204.png,Large Antenna,950,456,1005,484
+204.png,Small Antenna,914,482,1014,599
+205.png,Solar Panels,511,545,818,664
+205.png,Solar Panels,781,479,1145,611
+205.png,Solar Panels,1111,429,1401,545
+205.png,Body,908,509,1025,582
+205.png,Large Antenna,971,596,1026,625
+205.png,Large Antenna,888,460,941,488
+205.png,Small Antenna,892,484,1009,600
+206.png,Solar Panels,1023,507,1362,597
+206.png,Solar Panels,510,431,921,531
+206.png,Body,896,476,1014,578
+206.png,Large Antenna,979,467,1033,498
+206.png,Small Antenna,900,496,1023,586
+207.png,Solar Panels,824,447,1072,551
+207.png,Body,904,470,1037,577
+207.png,Large Antenna,1067,541,1116,559
+207.png,Large Antenna,820,515,860,537
+207.png,Small Antenna,857,513,1036,547
+208.png,Solar Panels,1030,500,1150,584
+208.png,Body,889,513,1046,570
+208.png,Large Antenna,950,602,988,627
+208.png,Large Antenna,950,456,988,483
+208.png,Small Antenna,939,481,967,602
+209.png,Solar Panels,982,510,1085,575
+209.png,Solar Panels,664,498,888,580
+209.png,Body,856,512,1035,570
+209.png,Large Antenna,935,599,975,627
+209.png,Large Antenna,931,455,972,480
+209.png,Small Antenna,946,480,986,601
+210.png,Solar Panels,590,405,1236,635
+210.png,Body,865,467,1024,582
+210.png,Large Antenna,1037,522,1077,546
+210.png,Small Antenna,983,532,1041,553
+211.png,Solar Panels,869,484,1220,633
+211.png,Body,883,510,1068,580
+211.png,Large Antenna,926,601,960,627
+211.png,Large Antenna,973,460,1018,485
+211.png,Small Antenna,925,482,990,601
+212.png,Solar Panels,778,361,1188,631
+212.png,Body,898,471,1020,567
+212.png,Large Antenna,1061,540,1104,561
+212.png,Large Antenna,809,516,860,541
+212.png,Small Antenna,854,522,1063,563
+213.png,Solar Panels,968,603,1184,760
+213.png,Solar Panels,636,365,857,517
+213.png,Body,833,514,1014,597
+213.png,Large Antenna,915,524,963,552
+214.png,Solar Panels,591,503,902,587
+214.png,Solar Panels,524,516,589,592
+214.png,Solar Panels,1003,481,1292,561
+214.png,Body,875,498,1012,571
+214.png,Large Antenna,932,596,982,619
+214.png,Large Antenna,944,455,994,485
+214.png,Small Antenna,936,482,1002,599
+215.png,Solar Panels,834,358,1242,701
+215.png,Body,908,507,1092,584
+215.png,Large Antenna,929,474,1009,618
+215.png,Small Antenna,928,493,983,593
+216.png,Solar Panels,767,516,885,535
+216.png,Solar Panels,1020,464,1238,497
+216.png,Body,874,465,1027,582
+216.png,Large Antenna,828,544,883,561
+216.png,Large Antenna,1045,510,1085,533
+217.png,Solar Panels,1034,507,1245,608
+217.png,Solar Panels,847,482,939,550
+217.png,Body,885,502,1066,573
+217.png,Large Antenna,962,601,1004,623
+217.png,Large Antenna,935,455,974,485
+217.png,Small Antenna,930,482,981,602
+218.png,Solar Panels,741,457,1124,590
+218.png,Body,824,496,1029,571
+218.png,Large Antenna,907,598,952,622
+218.png,Large Antenna,958,457,994,484
+218.png,Small Antenna,934,565,973,599
+219.png,Solar Panels,851,340,944,778
+219.png,Body,827,508,1032,577
+219.png,Large Antenna,900,481,998,594
+219.png,Small Antenna,935,500,965,536
+220.png,Solar Panels,501,530,899,636
+220.png,Solar Panels,1023,476,1351,573
+220.png,Body,887,509,1012,584
+220.png,Large Antenna,966,595,1018,626
+220.png,Large Antenna,891,467,946,488
+220.png,Small Antenna,907,485,1013,597
+221.png,Solar Panels,871,318,936,791
+221.png,Body,829,513,1034,576
+221.png,Large Antenna,874,497,1016,578
+221.png,Small Antenna,918,506,952,544
+222.png,Solar Panels,681,315,1213,701
+222.png,Body,900,483,1029,573
+222.png,Large Antenna,828,558,874,580
+222.png,Large Antenna,1055,498,1104,528
+222.png,Small Antenna,869,516,1059,573
+223.png,Solar Panels,700,312,1128,776
+223.png,Body,827,512,1015,587
+223.png,Large Antenna,1008,514,1037,542
+223.png,Small Antenna,975,513,1016,549
+224.png,Solar Panels,1001,506,1277,587
+224.png,Solar Panels,526,461,903,556
+224.png,Solar Panels,716,488,746,539
+224.png,Body,865,493,1011,572
+224.png,Large Antenna,899,596,952,616
+224.png,Large Antenna,978,457,1023,488
+224.png,Small Antenna,920,484,1017,599
+225.png,Solar Panels,609,521,846,623
+225.png,Solar Panels,983,403,1282,528
+225.png,Body,839,477,1031,572
+225.png,Body,934,533,962,550
+225.png,Large Antenna,959,473,999,494
+225.png,Small Antenna,922,558,976,588
+226.png,Solar Panels,789,315,1203,706
+226.png,Body,883,482,1094,568
+226.png,Body,996,510,1021,528
+226.png,Large Antenna,895,506,1060,577
+226.png,Small Antenna,970,541,1009,572
+227.png,Solar Panels,1051,554,1289,589
+227.png,Solar Panels,594,545,943,586
+227.png,Body,896,517,1056,614
+227.png,Small Antenna,966,506,1033,528
+228.png,Solar Panels,870,428,950,722
+228.png,Body,832,512,1034,594
+228.png,Large Antenna,1009,580,1028,609
+228.png,Large Antenna,860,477,912,496
+228.png,Small Antenna,904,492,1023,585
+229.png,Solar Panels,786,321,1141,794
+229.png,Body,903,514,1022,580
+229.png,Large Antenna,811,549,862,579
+229.png,Large Antenna,1061,511,1109,539
+229.png,Small Antenna,857,516,1065,571
+230.png,Solar Panels,789,454,1275,654
+230.png,Body,890,512,1080,615
+230.png,Large Antenna,862,561,896,590
+230.png,Large Antenna,1026,505,1077,521
+230.png,Small Antenna,889,542,941,567
+231.png,Solar Panels,819,398,1065,690
+231.png,Body,844,517,1028,610
+231.png,Large Antenna,1044,573,1072,603
+231.png,Large Antenna,827,493,881,511
+231.png,Small Antenna,877,504,1047,580
+232.png,Solar Panels,907,462,1167,634
+232.png,Body,900,500,1089,573
+232.png,Large Antenna,964,598,998,619
+232.png,Large Antenna,936,454,972,484
+232.png,Small Antenna,930,480,973,599
+233.png,Solar Panels,876,295,1144,746
+233.png,Body,884,495,1099,569
+233.png,Large Antenna,992,551,1042,579
+233.png,Small Antenna,963,538,996,574
+234.png,Solar Panels,778,313,1011,777
+234.png,Body,828,500,1035,573
+234.png,Large Antenna,935,500,975,531
+234.png,Small Antenna,956,513,985,550
+235.png,Solar Panels,549,580,922,634
+235.png,Solar Panels,1049,527,1313,567
+235.png,Body,896,500,1028,616
+235.png,Large Antenna,1015,540,1069,563
+235.png,Large Antenna,855,530,898,549
+235.png,Small Antenna,963,532,1027,549
+236.png,Solar Panels,867,424,1212,616
+236.png,Body,901,498,1071,569
+236.png,Large Antenna,982,598,1029,620
+236.png,Large Antenna,912,459,942,488
+236.png,Small Antenna,916,486,995,599
+237.png,Solar Panels,757,416,1134,578
+237.png,Body,899,467,1040,583
+237.png,Large Antenna,1062,535,1113,555
+237.png,Large Antenna,823,517,861,539
+237.png,Small Antenna,860,531,1062,558
+238.png,Solar Panels,723,439,1045,701
+238.png,Body,825,508,1036,590
+238.png,Large Antenna,994,591,1020,620
+238.png,Large Antenna,871,469,922,490
+238.png,Small Antenna,910,489,1013,593
+239.png,Solar Panels,1019,520,1388,644
+239.png,Solar Panels,856,500,1017,580
+239.png,Solar Panels,532,446,855,559
+239.png,Body,870,506,1015,573
+239.png,Large Antenna,893,596,948,624
+239.png,Large Antenna,963,456,1014,485
+239.png,Small Antenna,910,482,1007,598
+240.png,Solar Panels,717,532,1189,600
+240.png,Solar Panels,976,541,1141,591
+240.png,Body,834,507,1006,604
+240.png,Large Antenna,1013,593,1042,616
+240.png,Small Antenna,902,491,955,522
+241.png,Solar Panels,769,317,1253,738
+241.png,Body,912,482,1089,575
+241.png,Large Antenna,891,518,924,547
+241.png,Small Antenna,919,530,949,555
+242.png,Solar Panels,719,412,1330,712
+242.png,Body,907,505,1072,587
+242.png,Large Antenna,876,588,909,616
+242.png,Large Antenna,1004,467,1059,491
+242.png,Small Antenna,893,486,1021,592
+243.png,Solar Panels,599,359,1328,729
+243.png,Body,904,505,1026,575
+243.png,Large Antenna,1029,580,1079,608
+243.png,Large Antenna,852,472,902,498
+243.png,Small Antenna,888,492,1043,586
+244.png,Solar Panels,923,346,1068,653
+244.png,Body,899,482,1084,581
+244.png,Large Antenna,1028,573,1084,591
+244.png,Large Antenna,874,480,892,509
+244.png,Small Antenna,886,502,1034,580
+245.png,Solar Panels,683,310,1273,770
+245.png,Body,901,499,1051,575
+245.png,Large Antenna,833,566,878,594
+245.png,Large Antenna,1047,492,1099,521
+245.png,Small Antenna,870,508,1055,580
+246.png,Solar Panels,891,481,1187,606
+246.png,Body,901,500,1084,572
+246.png,Large Antenna,966,599,1006,621
+246.png,Large Antenna,929,454,964,484
+246.png,Small Antenna,926,481,979,600
+247.png,Solar Panels,1069,510,1265,577
+247.png,Solar Panels,1016,509,1067,577
+247.png,Solar Panels,532,499,888,575
+247.png,Body,868,513,1011,570
+247.png,Large Antenna,937,599,986,627
+247.png,Large Antenna,939,456,988,481
+247.png,Small Antenna,939,480,997,602
+248.png,Solar Panels,512,462,1384,639
+248.png,Body,903,517,1034,600
+248.png,Large Antenna,884,589,935,619
+248.png,Large Antenna,978,470,1034,490
+248.png,Small Antenna,895,488,1011,591
+249.png,Solar Panels,1020,813,1436,945
+249.png,Solar Panels,395,700,919,847
+249.png,Body,867,779,1029,893
+249.png,Large Antenna,857,912,925,935
+249.png,Large Antenna,986,747,1050,786
+249.png,Small Antenna,857,781,1032,917
+250.png,Solar Panels,539,841,839,979
+250.png,Solar Panels,974,636,1333,802
+250.png,Body,806,761,1051,885
+250.png,Large Antenna,856,788,1030,907
+250.png,Small Antenna,907,822,968,893
+251.png,Solar Panels,670,587,1068,1080
+251.png,Body,789,814,1058,907
+251.png,Large Antenna,880,824,942,863
+251.png,Small Antenna,859,820,1007,897
+252.png,Solar Panels,765,705,1013,989
+252.png,Body,813,759,1043,886
+252.png,Large Antenna,794,889,824,908
+252.png,Large Antenna,1065,777,1097,814
+252.png,Small Antenna,1003,807,1072,843
+253.png,Solar Panels,896,817,1025,1037
+253.png,Solar Panels,897,539,1027,768
+253.png,Body,908,762,1015,821
+253.png,Large Antenna,802,778,853,809
+253.png,Large Antenna,1070,777,1121,809
+253.png,Small Antenna,848,775,1075,822
+254.png,Solar Panels,871,819,986,1044
+254.png,Solar Panels,874,539,988,787
+254.png,Body,859,762,1022,822
+254.png,Large Antenna,807,784,868,816
+254.png,Large Antenna,1055,771,1085,802
+254.png,Small Antenna,866,772,1060,825
+255.png,Solar Panels,870,539,943,1053
+255.png,Body,826,764,1035,823
+255.png,Large Antenna,856,789,912,822
+255.png,Small Antenna,907,770,1023,819
+256.png,Body,828,766,1031,823
+256.png,Large Antenna,934,791,974,824
+256.png,Small Antenna,905,757,981,796
+257.png,Solar Panels,874,539,939,1066
+257.png,Body,823,765,999,826
+257.png,Large Antenna,1011,789,1031,822
+257.png,Small Antenna,939,767,1023,818
+258.png,Solar Panels,872,829,987,1066
+258.png,Solar Panels,871,539,987,782
+258.png,Body,851,766,1012,829
+258.png,Large Antenna,1057,785,1093,817
+258.png,Large Antenna,813,772,861,803
+258.png,Small Antenna,977,767,1060,815
+259.png,Solar Panels,894,829,1029,1061
+259.png,Solar Panels,892,539,1028,782
+259.png,Body,905,767,1016,828
+259.png,Large Antenna,1068,778,1123,810
+259.png,Large Antenna,798,778,853,810
+259.png,Small Antenna,1007,765,1074,811
+259.png,Small Antenna,847,765,914,812
+260.png,Solar Panels,935,830,1052,1066
+260.png,Solar Panels,932,539,1049,782
+260.png,Body,909,767,1071,829
+260.png,Large Antenna,828,784,864,817
+260.png,Large Antenna,1061,773,1108,803
+260.png,Small Antenna,861,767,945,816
+261.png,Solar Panels,980,539,1050,1066
+261.png,Body,920,767,1098,826
+261.png,Large Antenna,890,789,910,822
+261.png,Small Antenna,899,767,983,819
+262.png,Body,890,768,1094,824
+262.png,Large Antenna,948,790,988,824
+262.png,Small Antenna,941,757,1017,796
+263.png,Solar Panels,982,539,1049,1053
+263.png,Body,890,764,1096,824
+263.png,Large Antenna,1010,788,1066,821
+263.png,Small Antenna,900,769,1015,820
+264.png,Solar Panels,936,819,1049,1045
+264.png,Solar Panels,937,539,1049,772
+264.png,Body,905,763,1062,823
+264.png,Large Antenna,1055,783,1115,816
+264.png,Large Antenna,838,772,867,802
+264.png,Small Antenna,863,772,1058,817
+265.png,Solar Panels,896,817,1025,1037
+265.png,Solar Panels,897,539,1027,768
+265.png,Body,908,762,1015,821
+265.png,Large Antenna,802,778,853,809
+265.png,Large Antenna,1070,777,1121,809
+265.png,Small Antenna,848,775,1075,822
+266.png,Solar Panels,680,554,1238,1022
+266.png,Body,894,753,1024,828
+266.png,Large Antenna,816,817,866,846
+266.png,Large Antenna,1052,739,1101,770
+266.png,Small Antenna,861,757,1057,832
+267.png,Solar Panels,1003,788,1377,945
+267.png,Solar Panels,537,633,925,790
+267.png,Solar Panels,781,717,832,765
+267.png,Body,897,754,1018,832
+267.png,Large Antenna,861,847,915,872
+267.png,Large Antenna,998,714,1052,744
+267.png,Small Antenna,889,739,1033,851
+268.png,Solar Panels,1033,755,1405,827
+268.png,Solar Panels,507,754,863,826
+268.png,Body,909,764,1003,827
+268.png,Large Antenna,928,857,984,883
+268.png,Large Antenna,927,706,984,736
+268.png,Small Antenna,921,826,989,860
+268.png,Small Antenna,898,733,1014,768
+269.png,Solar Panels,535,791,914,947
+269.png,Solar Panels,992,637,1377,793
+269.png,Body,897,757,1016,834
+269.png,Large Antenna,998,850,1052,875
+269.png,Large Antenna,860,717,914,747
+269.png,Small Antenna,880,744,1023,853
+270.png,Solar Panels,677,559,1239,1027
+270.png,Body,893,758,1023,832
+270.png,Large Antenna,1051,822,1101,851
+270.png,Large Antenna,815,745,865,776
+270.png,Small Antenna,856,762,1059,837
+271.png,Solar Panels,895,827,1025,1043
+271.png,Solar Panels,897,544,1026,743
+271.png,Body,907,768,1014,827
+271.png,Large Antenna,801,784,852,815
+271.png,Large Antenna,1069,783,1120,815
+271.png,Small Antenna,847,781,1074,827
+272.png,Solar Panels,684,559,1243,1028
+272.png,Body,898,758,1028,833
+272.png,Large Antenna,821,823,871,852
+272.png,Large Antenna,1057,745,1106,776
+272.png,Small Antenna,865,763,1061,837
+273.png,Solar Panels,1011,792,1386,949
+273.png,Solar Panels,545,636,930,793
+273.png,Body,904,757,1025,835
+273.png,Large Antenna,870,850,924,876
+273.png,Large Antenna,1007,717,1061,747
+273.png,Small Antenna,898,742,1041,855
+274.png,Solar Panels,1013,756,1207,828
+274.png,Solar Panels,1281,756,1415,828
+274.png,Solar Panels,1212,756,1277,828
+274.png,Solar Panels,517,754,905,826
+274.png,Body,919,764,1013,827
+274.png,Large Antenna,938,857,995,883
+274.png,Large Antenna,937,706,994,737
+274.png,Small Antenna,932,819,1000,860
+274.png,Small Antenna,908,734,1024,776
+275.png,Solar Panels,545,788,920,945
+275.png,Solar Panels,1001,654,1327,791
+275.png,Solar Panels,1268,634,1387,714
+275.png,Body,906,755,1025,832
+275.png,Large Antenna,1008,847,1062,873
+275.png,Large Antenna,870,714,924,744
+275.png,Small Antenna,889,741,1033,850
+276.png,Solar Panels,683,555,1245,1022
+276.png,Body,899,753,1029,829
+276.png,Large Antenna,1057,817,1107,846
+276.png,Large Antenna,821,740,871,771
+276.png,Small Antenna,863,757,1066,832
+277.png,Solar Panels,896,817,1025,1037
+277.png,Solar Panels,897,539,1027,768
+277.png,Body,908,762,1015,821
+277.png,Large Antenna,802,778,853,809
+277.png,Large Antenna,1070,777,1121,809
+277.png,Small Antenna,848,775,1075,822
+278.png,Solar Panels,890,827,1031,1066
+278.png,Solar Panels,899,585,1026,762
+278.png,Body,908,767,1015,837
+278.png,Large Antenna,802,780,853,810
+278.png,Large Antenna,1069,779,1121,810
+278.png,Small Antenna,848,774,1075,811
+279.png,Solar Panels,884,858,1037,1018
+279.png,Solar Panels,899,675,1025,783
+279.png,Body,908,771,1015,863
+279.png,Large Antenna,802,785,847,810
+279.png,Large Antenna,1069,784,1121,809
+279.png,Small Antenna,1012,778,1074,806
+279.png,Small Antenna,848,778,911,806
+280.png,Solar Panels,881,842,1040,891
+280.png,Body,908,760,1015,844
+280.png,Large Antenna,802,790,849,811
+280.png,Large Antenna,1069,789,1121,811
+280.png,Small Antenna,1011,815,1028,832
+280.png,Small Antenna,895,815,912,832
+281.png,Solar Panels,901,850,1027,905
+281.png,Solar Panels,882,731,1039,813
+281.png,Body,907,814,1016,874
+281.png,Large Antenna,1069,790,1123,813
+281.png,Large Antenna,800,790,849,813
+281.png,Small Antenna,1032,786,1072,802
+282.png,Solar Panels,896,864,1029,1006
+282.png,Solar Panels,886,602,1035,805
+282.png,Body,906,774,1017,864
+282.png,Large Antenna,1069,787,1123,815
+282.png,Large Antenna,800,787,851,814
+282.png,Small Antenna,848,782,912,812
+282.png,Small Antenna,1011,781,1074,812
+283.png,Solar Panels,894,835,1030,1067
+283.png,Solar Panels,892,544,1028,783
+283.png,Body,906,772,1017,834
+283.png,Large Antenna,1069,785,1124,816
+283.png,Large Antenna,799,784,854,816
+283.png,Small Antenna,1008,771,1075,817
+283.png,Small Antenna,848,771,915,818
+284.png,Solar Panels,888,798,1037,1058
+284.png,Solar Panels,894,559,1027,752
+284.png,Body,906,753,1017,827
+284.png,Large Antenna,1069,783,1124,814
+284.png,Large Antenna,799,783,853,814
+284.png,Small Antenna,848,783,912,822
+284.png,Small Antenna,1011,782,1075,822
+285.png,Solar Panels,884,793,1042,964
+285.png,Solar Panels,896,628,1025,733
+285.png,Body,907,728,1016,811
+285.png,Large Antenna,1072,784,1123,809
+285.png,Large Antenna,800,783,853,809
+285.png,Small Antenna,1011,787,1075,814
+285.png,Small Antenna,850,787,912,814
+286.png,Solar Panels,883,771,1042,809
+286.png,Body,908,722,1015,832
+286.png,Large Antenna,1074,782,1122,804
+286.png,Large Antenna,801,782,853,804
+287.png,Solar Panels,900,809,1021,844
+287.png,Solar Panels,886,653,1039,742
+287.png,Body,908,741,1015,840
+287.png,Large Antenna,1075,780,1122,803
+287.png,Large Antenna,801,780,853,803
+287.png,Small Antenna,1012,791,1075,810
+287.png,Small Antenna,848,791,910,810
+288.png,Solar Panels,897,739,1024,954
+288.png,Solar Panels,891,557,1034,735
+288.png,Body,908,734,1015,836
+288.png,Large Antenna,802,779,853,806
+288.png,Large Antenna,1076,778,1121,806
+288.png,Small Antenna,848,781,1075,812
+289.png,Solar Panels,1033,755,1405,827
+289.png,Solar Panels,507,754,863,826
+289.png,Body,909,764,1003,827
+289.png,Large Antenna,928,857,984,883
+289.png,Large Antenna,927,706,984,736
+289.png,Small Antenna,921,826,989,860
+289.png,Small Antenna,898,733,1014,768
+290.png,Solar Panels,1013,756,1207,828
+290.png,Solar Panels,1281,756,1415,828
+290.png,Solar Panels,1212,756,1277,828
+290.png,Solar Panels,517,754,905,826
+290.png,Body,919,764,1013,827
+290.png,Large Antenna,938,857,995,883
+290.png,Large Antenna,937,706,994,737
+290.png,Small Antenna,932,819,1000,860
+290.png,Small Antenna,908,734,1024,776
+291.png,Solar Panels,684,608,1202,956
+291.png,Body,826,758,1009,837
+291.png,Large Antenna,993,846,1029,877
+291.png,Large Antenna,883,718,934,744
+291.png,Small Antenna,915,740,1018,851
+292.png,Solar Panels,825,575,998,998
+292.png,Body,819,762,1041,844
+292.png,Large Antenna,983,840,1012,871
+292.png,Large Antenna,900,742,916,760
+292.png,Small Antenna,976,806,1011,844
+293.png,Solar Panels,1004,797,1219,867
+293.png,Solar Panels,1061,806,1136,854
+293.png,Solar Panels,543,748,890,840
+293.png,Body,840,764,1036,856
+293.png,Large Antenna,977,848,1018,882
+293.png,Small Antenna,914,741,1009,849
+294.png,Solar Panels,942,549,1104,1056
+294.png,Body,887,767,1098,832
+294.png,Large Antenna,940,789,980,823
+294.png,Small Antenna,1005,763,1027,787
+295.png,Solar Panels,514,703,1369,957
+295.png,Solar Panels,584,892,628,934
+295.png,Body,897,753,1016,869
+295.png,Large Antenna,997,835,1055,868
+295.png,Small Antenna,891,755,1036,840
+296.png,Solar Panels,1005,788,1258,856
+296.png,Solar Panels,516,761,898,843
+296.png,Body,845,764,1032,853
+296.png,Large Antenna,968,850,1014,884
+296.png,Large Antenna,892,725,944,741
+296.png,Small Antenna,914,740,1007,851
+297.png,Solar Panels,545,613,1393,970
+297.png,Solar Panels,611,640,671,685
+297.png,Body,897,745,1038,832
+297.png,Large Antenna,855,844,907,871
+297.png,Large Antenna,1002,719,1058,748
+297.png,Small Antenna,886,744,1024,848
+298.png,Solar Panels,778,673,1070,987
+298.png,Body,823,762,1019,850
+298.png,Large Antenna,919,721,963,744
+298.png,Small Antenna,947,743,996,850
+299.png,Solar Panels,673,829,988,1015
+299.png,Solar Panels,1053,640,1295,795
+299.png,Body,887,762,1089,862
+299.png,Large Antenna,944,741,991,762
+299.png,Small Antenna,933,758,983,788
+300.png,Solar Panels,884,752,925,838
+300.png,Body,822,752,1036,828
+300.png,Large Antenna,898,856,941,881
+300.png,Large Antenna,972,707,1002,736
+300.png,Small Antenna,931,736,1002,859
+301.png,Solar Panels,510,761,865,778
+301.png,Body,903,720,1009,836
+301.png,Large Antenna,889,772,948,796
+302.png,Solar Panels,807,622,1280,981
+302.png,Solar Panels,835,645,913,719
+302.png,Body,882,736,1099,833
+302.png,Large Antenna,923,729,1017,856
+302.png,Small Antenna,923,760,966,792
+303.png,Solar Panels,559,612,1272,972
+303.png,Body,863,726,1023,829
+303.png,Large Antenna,1033,813,1079,835
+303.png,Large Antenna,836,757,876,785
+303.png,Small Antenna,976,799,1044,829
+304.png,Solar Panels,866,731,943,889
+304.png,Body,827,763,1035,830
+304.png,Large Antenna,941,857,969,883
+304.png,Large Antenna,939,708,975,734
+304.png,Small Antenna,904,734,984,858
+305.png,Solar Panels,689,765,856,837
+305.png,Solar Panels,923,758,1195,845
+305.png,Body,825,767,967,834
+305.png,Large Antenna,943,858,985,889
+305.png,Large Antenna,920,708,965,735
+305.png,Small Antenna,926,734,984,860
+306.png,Solar Panels,695,563,1183,1039
+306.png,Body,868,767,1023,852
+306.png,Large Antenna,809,800,864,831
+306.png,Large Antenna,1056,760,1104,788
+306.png,Small Antenna,856,764,1064,812
+307.png,Solar Panels,728,572,1075,1062
+307.png,Body,823,765,1017,848
+307.png,Large Antenna,917,801,963,834
+307.png,Small Antenna,886,778,992,825
+308.png,Solar Panels,605,653,1353,1012
+308.png,Body,898,753,1063,868
+308.png,Large Antenna,880,763,1055,848
+308.png,Small Antenna,895,768,1018,828
+309.png,Solar Panels,600,698,1264,986
+309.png,Body,899,769,1032,871
+309.png,Large Antenna,1050,810,1103,840
+309.png,Large Antenna,836,764,882,782
+309.png,Small Antenna,872,768,1058,822
+310.png,Solar Panels,625,732,1113,885
+310.png,Body,845,764,1039,830
+310.png,Large Antenna,943,857,984,886
+310.png,Large Antenna,920,708,965,734
+310.png,Small Antenna,925,734,991,860
+311.png,Solar Panels,1014,769,1439,891
+311.png,Solar Panels,1273,810,1300,859
+311.png,Solar Panels,622,695,930,800
+311.png,Solar Panels,561,685,637,758
+311.png,Body,906,750,1039,832
+311.png,Large Antenna,916,852,969,873
+311.png,Large Antenna,964,711,1022,744
+311.png,Small Antenna,918,741,1012,856
+312.png,Solar Panels,654,644,1273,976
+312.png,Body,838,746,1023,833
+312.png,Large Antenna,860,848,916,874
+312.png,Large Antenna,1017,717,1052,748
+312.png,Small Antenna,901,745,1032,852
+313.png,Solar Panels,856,727,1014,959
+313.png,Body,843,752,1020,859
+313.png,Large Antenna,1046,828,1071,857
+313.png,Small Antenna,873,758,1051,834
+314.png,Solar Panels,623,591,1368,963
+314.png,Body,899,732,1060,831
+314.png,Large Antenna,875,825,916,845
+314.png,Large Antenna,999,732,1057,765
+314.png,Small Antenna,892,755,1022,833
+315.png,Solar Panels,923,583,1134,1000
+315.png,Body,896,763,1098,849
+315.png,Large Antenna,932,740,1002,867
+315.png,Small Antenna,928,804,956,837
+316.png,Solar Panels,994,661,1066,891
+316.png,Body,889,756,1099,831
+316.png,Large Antenna,961,857,1002,884
+316.png,Large Antenna,939,710,973,738
+316.png,Small Antenna,934,738,973,857
+317.png,Solar Panels,772,735,1370,866
+317.png,Solar Panels,494,704,797,805
+317.png,Body,892,756,1015,830
+317.png,Large Antenna,904,856,960,880
+317.png,Large Antenna,970,708,1024,740
+317.png,Small Antenna,917,736,1021,859
+318.png,Solar Panels,813,601,1187,1062
+318.png,Body,903,760,1099,855
+318.png,Large Antenna,905,765,1040,835
+318.png,Small Antenna,956,770,994,806
+319.png,Solar Panels,554,655,1340,963
+319.png,Body,901,754,1038,870
+319.png,Large Antenna,849,830,900,862
+319.png,Large Antenna,1033,744,1087,763
+319.png,Small Antenna,885,755,1048,836
+320.png,Solar Panels,542,610,1343,992
+320.png,Body,894,745,1031,832
+320.png,Large Antenna,1020,844,1075,870
+320.png,Large Antenna,844,725,896,756
+320.png,Small Antenna,878,749,1038,850
+321.png,Solar Panels,604,571,1182,995
+321.png,Solar Panels,1004,691,1023,710
+321.png,Body,828,737,1038,826
+321.png,Large Antenna,899,761,951,793
+321.png,Small Antenna,926,774,998,826
+322.png,Solar Panels,620,779,892,886
+322.png,Solar Panels,979,750,1134,828
+322.png,Body,842,765,1013,845
+322.png,Large Antenna,985,854,1020,886
+322.png,Large Antenna,889,717,940,737
+322.png,Small Antenna,922,736,1013,856
+323.png,Solar Panels,961,648,1067,1003
+323.png,Body,895,762,1096,836
+323.png,Large Antenna,956,849,987,875
+323.png,Large Antenna,940,719,977,748
+323.png,Small Antenna,933,744,970,853
+324.png,Solar Panels,983,544,1062,1069
+324.png,Body,899,772,1101,826
+324.png,Large Antenna,987,779,1038,812
+324.png,Small Antenna,915,779,990,818
+325.png,Solar Panels,690,579,1209,1026
+325.png,Body,898,735,1049,832
+325.png,Large Antenna,1059,817,1113,842
+325.png,Large Antenna,821,741,868,772
+325.png,Small Antenna,864,760,1062,831
+326.png,Solar Panels,693,556,1264,1026
+326.png,Body,896,759,1075,832
+326.png,Large Antenna,843,826,882,857
+326.png,Large Antenna,1028,735,1084,764
+326.png,Small Antenna,871,798,934,837
+327.png,Solar Panels,512,768,872,868
+327.png,Solar Panels,1013,741,1213,824
+327.png,Solar Panels,1199,724,1419,812
+327.png,Body,916,764,1017,829
+327.png,Large Antenna,958,857,1016,886
+327.png,Large Antenna,918,708,974,736
+327.png,Small Antenna,916,818,1030,860
+327.png,Small Antenna,901,734,1015,775
+328.png,Solar Panels,746,572,1139,1032
+328.png,Body,899,734,1026,833
+328.png,Large Antenna,1066,799,1120,826
+328.png,Large Antenna,807,758,860,788
+328.png,Small Antenna,856,769,1070,823
+329.png,Solar Panels,492,762,928,874
+329.png,Solar Panels,1018,685,1418,787
+329.png,Body,910,727,1021,834
+329.png,Large Antenna,982,844,1040,862
+329.png,Large Antenna,896,721,949,749
+329.png,Small Antenna,952,813,1024,847
+330.png,Solar Panels,576,782,970,897
+330.png,Solar Panels,1068,732,1354,830
+330.png,Body,897,763,1073,849
+330.png,Large Antenna,938,852,989,884
+330.png,Large Antenna,947,713,1000,738
+330.png,Small Antenna,931,736,993,855
+331.png,Solar Panels,1013,783,1403,923
+331.png,Solar Panels,528,661,927,801
+331.png,Body,906,759,1021,834
+331.png,Large Antenna,885,853,940,879
+331.png,Large Antenna,991,713,1047,743
+331.png,Small Antenna,905,739,1039,858
+332.png,Solar Panels,721,575,1100,1059
+332.png,Body,848,761,1020,834
+332.png,Large Antenna,1045,813,1074,843
+332.png,Large Antenna,823,745,881,774
+332.png,Small Antenna,874,756,1053,829
+333.png,Solar Panels,738,774,1193,889
+333.png,Body,902,758,1088,870
+333.png,Body,997,789,1023,805
+333.png,Small Antenna,974,753,1030,779
+334.png,Solar Panels,646,779,868,873
+334.png,Solar Panels,939,717,1270,832
+334.png,Body,833,764,995,844
+334.png,Large Antenna,980,854,1019,887
+334.png,Large Antenna,896,712,948,737
+334.png,Small Antenna,925,734,1014,857
+335.png,Solar Panels,555,783,965,902
+335.png,Solar Panels,1062,725,1367,828
+335.png,Body,898,763,1067,849
+335.png,Large Antenna,944,852,997,884
+335.png,Large Antenna,940,713,992,738
+335.png,Small Antenna,930,735,991,856
+336.png,Solar Panels,568,619,1325,1011
+336.png,Body,845,759,1027,856
+336.png,Large Antenna,866,841,919,861
+336.png,Large Antenna,995,733,1040,756
+336.png,Small Antenna,958,749,1020,810
+337.png,Solar Panels,564,701,1379,865
+337.png,Solar Panels,1124,781,1306,847
+337.png,Body,860,726,1017,837
+337.png,Large Antenna,854,843,913,860
+337.png,Large Antenna,999,722,1045,753
+337.png,Small Antenna,890,750,1020,846
+338.png,Solar Panels,622,714,1117,889
+338.png,Body,832,751,1040,831
+338.png,Large Antenna,919,856,963,880
+338.png,Large Antenna,945,707,986,736
+338.png,Small Antenna,935,736,993,857
+339.png,Solar Panels,852,542,966,1068
+339.png,Body,823,770,1033,833
+339.png,Large Antenna,1016,801,1035,834
+339.png,Small Antenna,944,775,1028,827
+340.png,Solar Panels,848,722,1115,846
+340.png,Body,952,728,1089,802
+340.png,Large Antenna,860,724,887,755
+340.png,Small Antenna,988,822,1038,846
+340.png,Small Antenna,880,751,901,768
+341.png,Solar Panels,1071,804,1364,929
+341.png,Solar Panels,693,628,917,731
+341.png,Solar Panels,639,603,694,633
+341.png,Body,911,724,1072,839
+341.png,Large Antenna,954,778,1010,804
+342.png,Solar Panels,719,540,1130,1057
+342.png,Body,841,752,1021,825
+342.png,Large Antenna,1048,798,1082,830
+342.png,Large Antenna,829,758,862,786
+342.png,Small Antenna,992,784,1054,823
+343.png,Solar Panels,801,705,1298,875
+343.png,Body,883,763,1092,837
+343.png,Large Antenna,946,859,989,888
+343.png,Large Antenna,949,712,991,737
+343.png,Small Antenna,934,735,991,859
+344.png,Solar Panels,1040,804,1415,954
+344.png,Solar Panels,615,693,1045,857
+344.png,Body,897,762,1054,854
+344.png,Large Antenna,873,849,921,882
+344.png,Large Antenna,1007,726,1063,747
+344.png,Small Antenna,896,743,1030,854
+345.png,Solar Panels,775,711,1296,910
+345.png,Body,884,766,1092,872
+345.png,Large Antenna,871,829,904,862
+345.png,Small Antenna,893,756,1030,833
+346.png,Solar Panels,923,538,1114,1022
+346.png,Body,888,754,1094,829
+346.png,Large Antenna,1022,813,1079,843
+346.png,Large Antenna,885,747,904,776
+346.png,Small Antenna,893,760,1028,831
+347.png,Solar Panels,813,698,1129,991
+347.png,Body,896,767,1072,866
+347.png,Large Antenna,842,811,872,838
+347.png,Large Antenna,1051,761,1111,780
+347.png,Small Antenna,866,766,1052,820
+348.png,Solar Panels,751,739,1209,873
+348.png,Body,956,763,1095,829
+348.png,Large Antenna,952,860,996,888
+348.png,Large Antenna,933,707,974,737
+348.png,Small Antenna,925,735,994,862
+349.png,Solar Panels,1072,763,1231,842
+349.png,Solar Panels,732,735,999,832
+349.png,Body,959,764,1095,827
+349.png,Large Antenna,944,859,988,888
+349.png,Large Antenna,950,707,993,736
+349.png,Small Antenna,934,734,992,860
+350.png,Solar Panels,649,587,1164,996
+350.png,Body,842,731,1021,835
+350.png,Large Antenna,839,780,873,806
+350.png,Large Antenna,1040,779,1073,806
+350.png,Small Antenna,988,781,1046,812
+351.png,Solar Panels,1012,780,1331,905
+351.png,Solar Panels,507,668,909,806
+351.png,Body,875,755,1014,833
+351.png,Large Antenna,885,855,943,882
+351.png,Large Antenna,988,712,1036,742
+351.png,Small Antenna,910,738,1024,859
+352.png,Solar Panels,674,598,1135,1055
+352.png,Body,849,763,1028,845
+352.png,Large Antenna,1042,825,1075,857
+352.png,Large Antenna,818,744,876,771
+352.png,Small Antenna,867,759,1050,838
+353.png,Solar Panels,667,550,1144,1025
+353.png,Body,830,749,1022,828
+353.png,Large Antenna,1017,805,1039,830
+353.png,Large Antenna,845,761,904,794
+353.png,Small Antenna,891,771,1026,829
+354.png,Solar Panels,682,663,1202,955
+354.png,Body,900,751,1041,876
+354.png,Large Antenna,818,812,864,840
+354.png,Large Antenna,1060,765,1116,786
+354.png,Small Antenna,859,770,1067,824
+355.png,Solar Panels,962,729,1064,850
+355.png,Body,885,765,1097,832
+355.png,Large Antenna,941,860,977,888
+355.png,Large Antenna,959,709,999,732
+355.png,Small Antenna,934,736,970,860
+356.png,Solar Panels,916,812,1037,927
+356.png,Solar Panels,918,582,1059,743
+356.png,Body,907,730,1044,823
+356.png,Large Antenna,1068,804,1122,826
+356.png,Large Antenna,817,764,858,792
+356.png,Small Antenna,853,778,1069,824
+357.png,Solar Panels,723,746,1157,869
+357.png,Body,829,765,960,832
+357.png,Large Antenna,937,857,979,888
+357.png,Large Antenna,937,707,979,734
+357.png,Small Antenna,951,733,991,766
+358.png,Solar Panels,1021,754,1437,836
+358.png,Solar Panels,590,766,913,842
+358.png,Body,904,766,1046,831
+358.png,Large Antenna,940,858,995,889
+358.png,Large Antenna,942,710,996,736
+358.png,Small Antenna,929,734,997,861
+359.png,Solar Panels,1027,779,1396,934
+359.png,Solar Panels,666,658,922,790
+359.png,Body,910,744,1070,831
+359.png,Large Antenna,916,847,961,870
+359.png,Large Antenna,956,711,1010,743
+359.png,Small Antenna,914,740,993,852
+360.png,Solar Panels,738,552,1070,1024
+360.png,Body,829,761,1020,834
+360.png,Large Antenna,845,826,903,856
+360.png,Large Antenna,1020,745,1043,775
+360.png,Small Antenna,894,762,1032,840
+361.png,Solar Panels,524,761,892,859
+361.png,Solar Panels,989,739,1234,823
+361.png,Body,848,759,1032,829
+361.png,Large Antenna,929,857,978,884
+361.png,Large Antenna,929,706,978,734
+361.png,Small Antenna,933,734,988,860
+362.png,Solar Panels,612,587,1290,1033
+362.png,Body,847,759,1025,841
+362.png,Large Antenna,839,829,896,860
+362.png,Large Antenna,1025,730,1065,758
+362.png,Small Antenna,973,749,1036,788
+363.png,Solar Panels,709,743,1356,927
+363.png,Body,890,757,1072,869
+363.png,Large Antenna,856,838,894,871
+363.png,Small Antenna,882,752,1041,843
+364.png,Solar Panels,719,555,1088,1025
+364.png,Body,829,763,1018,834
+364.png,Large Antenna,848,827,906,858
+364.png,Large Antenna,1018,744,1043,773
+364.png,Small Antenna,896,761,1031,841
+365.png,Solar Panels,557,649,1333,1004
+365.png,Body,893,757,1021,859
+365.png,Large Antenna,1020,835,1075,868
+365.png,Large Antenna,847,741,896,761
+365.png,Small Antenna,879,754,1040,843
+366.png,Solar Panels,815,701,952,946
+366.png,Body,819,762,1036,839
+366.png,Large Antenna,965,855,997,884
+366.png,Large Antenna,902,714,947,739
+366.png,Small Antenna,935,738,999,855
+367.png,Solar Panels,581,608,1276,924
+367.png,Body,882,733,1012,832
+367.png,Large Antenna,839,835,892,853
+367.png,Large Antenna,1040,731,1086,763
+367.png,Small Antenna,878,756,1051,842
+368.png,Solar Panels,978,856,1272,995
+368.png,Solar Panels,613,674,864,793
+368.png,Body,835,771,1036,869
+368.png,Large Antenna,878,767,1017,828
+368.png,Small Antenna,933,778,967,796
+369.png,Solar Panels,668,750,1170,891
+369.png,Body,882,764,1022,873
+369.png,Large Antenna,1058,788,1104,810
+369.png,Small Antenna,994,781,1061,798
+370.png,Solar Panels,659,603,1166,1048
+370.png,Body,831,760,1004,858
+370.png,Large Antenna,928,792,975,824
+370.png,Small Antenna,885,783,989,817
+371.png,Solar Panels,1019,781,1421,874
+371.png,Solar Panels,613,756,918,836
+371.png,Body,908,765,1055,848
+371.png,Large Antenna,898,853,947,886
+371.png,Large Antenna,967,720,1022,740
+371.png,Small Antenna,903,737,1003,856
+372.png,Solar Panels,539,790,930,944
+372.png,Solar Panels,1007,649,1395,800
+372.png,Body,907,759,1024,832
+372.png,Large Antenna,1003,850,1058,878
+372.png,Large Antenna,876,714,930,742
+372.png,Small Antenna,892,740,1043,852
+373.png,Solar Panels,806,655,1023,891
+373.png,Body,819,748,1039,832
+373.png,Large Antenna,909,855,951,881
+373.png,Small Antenna,938,745,994,856
+374.png,Solar Panels,722,706,1285,930
+374.png,Body,895,754,1051,874
+374.png,Large Antenna,823,791,864,814
+374.png,Small Antenna,861,783,928,804
+375.png,Solar Panels,709,642,1341,919
+375.png,Body,901,719,1074,841
+375.png,Large Antenna,1020,800,1066,820
+375.png,Large Antenna,858,759,896,788
+375.png,Small Antenna,892,778,943,802
+376.png,Solar Panels,947,762,1325,853
+376.png,Solar Panels,684,757,845,833
+376.png,Solar Panels,589,755,681,827
+376.png,Body,844,766,1005,832
+376.png,Large Antenna,928,858,978,889
+376.png,Large Antenna,929,707,979,736
+376.png,Small Antenna,933,733,989,860
+377.png,Solar Panels,1034,762,1290,864
+377.png,Solar Panels,805,741,934,817
+377.png,Body,914,760,1072,828
+377.png,Large Antenna,946,860,989,884
+377.png,Large Antenna,938,706,980,736
+377.png,Small Antenna,929,733,986,860
+378.png,Solar Panels,965,775,1382,881
+378.png,Solar Panels,667,748,866,833
+378.png,Solar Panels,557,740,665,817
+378.png,Body,866,764,1014,844
+378.png,Large Antenna,936,855,989,887
+378.png,Large Antenna,938,711,991,737
+378.png,Small Antenna,938,734,999,858
