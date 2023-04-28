@@ -18,6 +18,4 @@ To use this project, you need to provide some input data and run the script. The
 
 
 ## Credits
-Chat GPT
-
 Caltech Autonomous Robotics and Control Lab
