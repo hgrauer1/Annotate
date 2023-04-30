@@ -1,7 +1,7 @@
 import csv
 
 # Open the input CSV file and create a new output file for corrected entries
-with open('annotations_simulate.csv', 'r') as csv_file, open('output_file.csv', 'w', newline='') as output_file:
+with open('annotations_300_sim_filtered.csv', 'r') as csv_file, open('output_file.csv', 'w', newline='') as output_file:
     csv_reader = csv.reader(csv_file)
     csv_writer = csv.writer(output_file)
 

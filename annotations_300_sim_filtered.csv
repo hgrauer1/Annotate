@@ -1,0 +1,1087 @@
+filename,class,xmin,ymin,xmax,ymax
+1.png,Solar Panels,837,578,1083,1007
+1.png,Solar Panels,841,64,1087,485
+1.png,Body,859,485,1065,587
+2.png,Solar Panels,789,579,1008,1020
+2.png,Solar Panels,794,51,1013,533
+2.png,Body,769,485,1080,587
+3.png,Solar Panels,784,579,922,1037
+3.png,Solar Panels,791,34,928,492
+3.png,Body,703,485,1106,587
+4.png,Solar Panels,828,22,849,1051
+4.png,Body,700,486,1099,586
+5.png,Solar Panels,795,581,914,1061
+5.png,Solar Panels,798,10,917,490
+5.png,Body,692,486,1099,587
+6.png,Solar Panels,787,581,1014,1061
+6.png,Solar Panels,787,10,1013,489
+6.png,Body,741,486,1064,586
+7.png,Solar Panels,828,581,1097,1051
+7.png,Solar Panels,824,20,1093,489
+7.png,Body,849,486,1071,586
+8.png,Solar Panels,908,581,1139,1060
+8.png,Solar Panels,902,11,1133,489
+8.png,Body,850,486,1179,587
+9.png,Solar Panels,1005,581,1131,1061
+9.png,Solar Panels,999,10,1125,490
+9.png,Body,817,485,1229,588
+10.png,Body,823,485,1222,588
+11.png,Solar Panels,1002,579,1133,1037
+11.png,Solar Panels,1000,33,1131,492
+11.png,Body,820,484,1220,588
+12.png,Solar Panels,915,579,1130,1020
+12.png,Solar Panels,915,50,1131,488
+12.png,Body,850,485,1155,588
+13.png,Solar Panels,638,283,1338,1026
+13.png,Body,848,464,1224,669
+14.png,Solar Panels,679,512,931,620
+14.png,Solar Panels,1001,563,1664,755
+14.png,Body,820,465,1190,683
+14.png,Body,941,617,997,638
+15.png,Solar Panels,847,553,1115,751
+15.png,Solar Panels,634,54,1040,513
+15.png,Body,809,404,1071,625
+16.png,Solar Panels,999,598,1885,757
+16.png,Solar Panels,71,446,841,603
+16.png,Body,819,486,1066,695
+17.png,Solar Panels,1146,497,1741,698
+17.png,Solar Panels,53,337,959,594
+17.png,Body,844,476,1171,614
+18.png,Solar Panels,1056,542,1422,645
+18.png,Solar Panels,74,486,843,636
+18.png,Body,746,470,1078,664
+18.png,Body,871,611,930,632
+19.png,Solar Panels,520,482,905,627
+19.png,Solar Panels,1092,401,1853,603
+19.png,Body,864,480,1177,600
+19.png,Body,1121,494,1176,567
+19.png,Body,917,520,995,555
+20.png,Solar Panels,515,452,856,660
+20.png,Body,786,483,1106,602
+21.png,Solar Panels,846,474,1163,708
+21.png,Solar Panels,683,457,797,571
+21.png,Body,700,483,902,607
+22.png,Solar Panels,758,411,1240,611
+22.png,Body,804,508,886,594
+22.png,Body,1007,445,1237,581
+23.png,Solar Panels,917,446,1627,614
+23.png,Solar Panels,457,427,774,535
+23.png,Body,719,403,1059,619
+23.png,Body,849,541,903,566
+24.png,Solar Panels,117,561,905,702
+24.png,Solar Panels,1058,484,1887,621
+24.png,Body,875,471,1075,678
+25.png,Solar Panels,176,294,1477,815
+25.png,Body,829,393,1108,599
+25.png,Body,979,536,1033,557
+26.png,Solar Panels,1057,486,1893,691
+26.png,Solar Panels,201,390,881,578
+26.png,Body,862,478,1091,607
+27.png,Solar Panels,934,531,953,550
+27.png,Solar Panels,1097,442,1396,647
+27.png,Body,831,476,1138,600
+27.png,Body,1202,479,1219,578
+27.png,Body,931,529,955,552
+28.png,Solar Panels,1032,599,1863,702
+28.png,Solar Panels,113,528,811,609
+28.png,Body,842,465,1060,692
+29.png,Solar Panels,1084,450,1852,572
+29.png,Solar Panels,0,405,917,537
+29.png,Body,857,398,1086,595
+30.png,Solar Panels,741,227,1202,602
+30.png,Body,742,402,1073,622
+30.png,Body,807,503,846,533
+31.png,Solar Panels,192,333,1354,932
+31.png,Body,748,492,1082,650
+31.png,Body,925,475,1017,564
+32.png,Solar Panels,1054,489,1881,695
+32.png,Solar Panels,226,320,885,455
+32.png,Body,841,392,1123,628
+33.png,Solar Panels,953,445,1784,574
+33.png,Solar Panels,336,437,769,526
+33.png,Body,744,397,1086,621
+33.png,Body,880,529,939,554
+34.png,Solar Panels,188,461,854,503
+34.png,Solar Panels,1046,437,1917,490
+34.png,Body,858,390,1087,620
+35.png,Solar Panels,694,146,1627,735
+35.png,Body,852,432,1198,607
+35.png,Body,912,431,1186,556
+36.png,Solar Panels,1093,500,1873,708
+36.png,Solar Panels,237,265,895,458
+36.png,Body,852,389,1131,627
+37.png,Solar Panels,739,466,1157,700
+37.png,Solar Panels,1158,462,1251,577
+37.png,Body,1015,484,1222,607
+38.png,Solar Panels,1021,645,1447,838
+38.png,Solar Panels,152,267,831,571
+38.png,Body,733,459,1068,682
+39.png,Solar Panels,80,510,833,813
+39.png,Solar Panels,995,358,1404,564
+39.png,Body,737,473,1066,608
+39.png,Body,927,531,1011,566
+40.png,Solar Panels,981,515,1187,997
+40.png,Solar Panels,979,207,1118,439
+40.png,Body,830,424,1224,610
+40.png,Body,946,500,991,534
+41.png,Solar Panels,193,509,1000,824
+41.png,Solar Panels,1160,356,1598,573
+41.png,Body,865,473,1211,618
+42.png,Solar Panels,990,529,1066,607
+42.png,Solar Panels,414,413,864,618
+42.png,Body,768,480,1109,598
+43.png,Solar Panels,365,45,1449,823
+43.png,Body,829,417,1107,620
+44.png,Solar Panels,705,471,878,720
+44.png,Body,799,482,1106,617
+44.png,Body,691,520,749,625
+45.png,Solar Panels,1122,547,1597,886
+45.png,Solar Panels,504,66,988,450
+45.png,Body,872,419,1211,615
+46.png,Solar Panels,121,473,894,614
+46.png,Solar Panels,1062,467,1821,608
+46.png,Body,878,484,1062,599
+47.png,Solar Panels,174,254,1363,961
+47.png,Body,726,473,1107,622
+47.png,Body,983,570,1028,597
+47.png,Body,773,516,813,547
+48.png,Solar Panels,926,447,1889,609
+48.png,Solar Panels,195,444,786,573
+48.png,Body,766,429,1060,600
+48.png,Body,1018,495,1076,547
+49.png,Solar Panels,92,505,865,817
+49.png,Solar Panels,1018,232,1673,453
+49.png,Body,780,392,1088,625
+50.png,Solar Panels,192,207,1245,758
+50.png,Body,700,468,1115,615
+50.png,Body,792,564,969,593
+51.png,Solar Panels,1037,57,1107,846
+51.png,Body,826,468,1217,612
+51.png,Body,1026,537,1059,569
+52.png,Solar Panels,1180,491,1523,622
+52.png,Solar Panels,252,470,1045,661
+52.png,Body,889,484,1213,634
+53.png,Solar Panels,352,542,839,977
+53.png,Solar Panels,926,77,1449,467
+53.png,Body,710,426,1075,608
+54.png,Solar Panels,1022,637,1438,766
+54.png,Solar Panels,135,360,872,591
+54.png,Body,763,456,1086,695
+54.png,Body,923,571,983,597
+55.png,Solar Panels,794,601,1052,1056
+55.png,Solar Panels,742,229,933,514
+55.png,Body,712,480,1109,647
+55.png,Body,804,554,841,589
+56.png,Solar Panels,61,471,1010,688
+56.png,Solar Panels,1150,428,1684,591
+56.png,Body,858,463,1169,604
+57.png,Solar Panels,1071,539,1791,885
+57.png,Solar Panels,187,166,943,491
+57.png,Body,849,424,1158,613
+58.png,Solar Panels,369,472,738,611
+58.png,Solar Panels,882,442,1711,636
+58.png,Body,728,479,1040,602
+59.png,Solar Panels,1019,628,1704,831
+59.png,Solar Panels,77,302,862,582
+59.png,Body,785,454,1088,691
+60.png,Solar Panels,761,352,1530,950
+60.png,Body,852,474,1194,659
+60.png,Body,877,523,980,581
+61.png,Solar Panels,890,598,1408,1018
+61.png,Solar Panels,483,266,805,500
+61.png,Body,711,458,1067,672
+62.png,Solar Panels,884,651,1151,790
+62.png,Solar Panels,611,262,1064,584
+62.png,Body,832,541,1072,687
+63.png,Solar Panels,867,569,1053,894
+63.png,Solar Panels,870,180,1056,499
+63.png,Body,885,499,1039,575
+64.png,Solar Panels,832,569,996,902
+64.png,Solar Panels,836,172,1000,535
+64.png,Body,815,499,1049,575
+65.png,Solar Panels,829,569,931,911
+65.png,Solar Panels,834,163,935,505
+65.png,Body,766,500,1070,575
+66.png,Body,767,500,1063,575
+67.png,Solar Panels,836,570,926,924
+67.png,Solar Panels,838,150,928,503
+67.png,Body,761,500,1065,575
+68.png,Solar Panels,831,571,1000,924
+68.png,Solar Panels,831,150,999,503
+68.png,Body,799,500,1039,575
+69.png,Solar Panels,862,571,1061,919
+69.png,Solar Panels,860,155,1058,503
+69.png,Body,879,500,1042,575
+70.png,Solar Panels,922,571,1094,924
+70.png,Solar Panels,918,150,1089,503
+70.png,Body,877,500,1122,575
+71.png,Solar Panels,994,570,1089,924
+71.png,Solar Panels,989,149,1085,503
+71.png,Body,855,499,1161,576
+72.png,Body,858,499,1155,575
+73.png,Solar Panels,992,569,1090,911
+73.png,Solar Panels,991,162,1088,505
+73.png,Body,856,499,1156,576
+74.png,Solar Panels,926,569,1088,902
+74.png,Solar Panels,926,172,1089,501
+74.png,Body,879,499,1108,576
+74.png,Body,1002,524,1019,550
+75.png,Solar Panels,1085,534,1559,751
+75.png,Solar Panels,525,256,973,479
+75.png,Body,860,441,1134,582
+76.png,Solar Panels,303,490,887,602
+76.png,Solar Panels,1011,479,1594,589
+76.png,Body,885,497,1023,584
+77.png,Solar Panels,1008,584,1159,851
+77.png,Solar Panels,900,159,1073,500
+77.png,Body,847,478,1160,584
+78.png,Solar Panels,707,490,1041,638
+78.png,Solar Panels,1136,481,1252,582
+78.png,Body,977,498,1155,588
+79.png,Solar Panels,553,210,1255,704
+79.png,Body,865,436,1051,604
+80.png,Solar Panels,488,611,948,831
+80.png,Solar Panels,1081,355,1549,551
+80.png,Body,883,480,1122,647
+81.png,Solar Panels,491,369,1375,595
+81.png,Body,876,432,1140,601
+81.png,Body,988,523,1030,545
+82.png,Solar Panels,968,586,1518,839
+82.png,Solar Panels,376,291,874,545
+82.png,Body,810,490,1055,635
+83.png,Solar Panels,913,547,1498,683
+83.png,Solar Panels,491,500,816,594
+83.png,Body,787,484,1034,646
+83.png,Body,909,528,953,550
+84.png,Solar Panels,757,195,1328,879
+84.png,Body,876,457,1157,589
+85.png,Solar Panels,473,301,1530,810
+85.png,Body,819,455,1059,593
+86.png,Solar Panels,997,206,1094,785
+86.png,Body,854,485,1157,596
+87.png,Solar Panels,528,314,1508,756
+87.png,Body,830,492,1054,644
+87.png,Body,928,515,978,552
+88.png,Solar Panels,566,591,858,638
+88.png,Solar Panels,974,513,1523,588
+88.png,Body,855,487,1061,652
+89.png,Solar Panels,667,396,1195,789
+89.png,Body,762,492,1037,615
+89.png,Body,901,511,931,536
+90.png,Solar Panels,1060,555,1522,786
+90.png,Solar Panels,368,272,954,546
+90.png,Body,875,490,1112,611
+91.png,Solar Panels,895,505,1202,692
+91.png,Solar Panels,826,366,1022,460
+91.png,Body,878,429,1071,601
+92.png,Solar Panels,981,490,1634,611
+92.png,Solar Panels,317,487,839,597
+92.png,Body,840,498,1032,594
+93.png,Solar Panels,1139,509,1648,570
+93.png,Solar Panels,334,413,840,476
+93.png,Body,894,431,1061,591
+94.png,Solar Panels,383,503,830,654
+94.png,Solar Panels,938,390,1611,573
+94.png,Body,816,483,1038,588
+95.png,Solar Panels,837,499,1028,724
+95.png,Solar Panels,806,375,939,467
+95.png,Body,771,442,1064,571
+96.png,Solar Panels,993,493,1199,591
+96.png,Solar Panels,407,475,912,606
+96.png,Body,790,497,1072,584
+97.png,Solar Panels,761,340,1393,737
+97.png,Body,882,432,1144,603
+97.png,Body,953,493,994,515
+98.png,Solar Panels,788,206,1312,912
+98.png,Body,873,497,1159,607
+98.png,Body,965,540,982,564
+99.png,Solar Panels,1073,536,1537,773
+99.png,Solar Panels,553,233,977,481
+99.png,Body,853,446,1141,585
+100.png,Solar Panels,595,426,1202,528
+100.png,Body,870,428,1101,599
+101.png,Solar Panels,737,481,1032,635
+101.png,Solar Panels,1125,462,1238,559
+101.png,Body,937,474,1168,580
+102.png,Solar Panels,1047,496,1644,665
+102.png,Solar Panels,451,375,907,525
+102.png,Body,883,447,1086,597
+103.png,Solar Panels,1004,555,1629,734
+103.png,Solar Panels,365,426,889,583
+103.png,Body,880,486,1050,631
+104.png,Solar Panels,576,499,916,612
+104.png,Solar Panels,1024,448,1631,590
+104.png,Body,859,495,1123,586
+105.png,Solar Panels,979,533,1633,707
+105.png,Solar Panels,314,425,845,586
+105.png,Body,833,492,1037,625
+106.png,Solar Panels,992,519,1248,641
+106.png,Solar Panels,388,424,858,591
+106.png,Body,791,494,1030,604
+106.png,Body,857,527,990,598
+107.png,Solar Panels,310,489,956,657
+107.png,Solar Panels,1094,425,1564,562
+107.png,Body,871,468,1113,588
+108.png,Solar Panels,697,340,1168,665
+108.png,Body,764,485,1041,589
+108.png,Body,910,562,937,584
+109.png,Solar Panels,370,542,892,808
+109.png,Solar Panels,985,243,1534,502
+109.png,Body,828,457,1057,591
+110.png,Solar Panels,703,406,1178,655
+110.png,Solar Panels,739,569,797,631
+110.png,Body,757,506,964,619
+111.png,Solar Panels,692,420,1264,693
+111.png,Body,917,469,1168,588
+112.png,Solar Panels,716,258,1337,899
+112.png,Body,846,494,1166,620
+113.png,Solar Panels,721,475,872,615
+113.png,Body,840,496,1069,592
+114.png,Solar Panels,938,559,1494,735
+114.png,Solar Panels,446,450,812,576
+114.png,Body,779,498,1067,644
+114.png,Body,916,530,959,554
+115.png,Solar Panels,795,345,1336,730
+115.png,Body,880,430,1134,604
+115.png,Body,934,493,974,515
+116.png,Solar Panels,503,360,1602,801
+116.png,Body,864,491,1100,616
+117.png,Solar Panels,834,272,1284,918
+117.png,Body,851,493,1147,613
+117.png,Body,1068,546,1094,572
+118.png,Solar Panels,771,545,1064,894
+118.png,Solar Panels,973,229,1199,477
+118.png,Body,859,457,1143,586
+119.png,Solar Panels,607,489,806,592
+119.png,Solar Panels,903,480,1296,618
+119.png,Body,765,498,958,587
+120.png,Solar Panels,369,484,844,522
+120.png,Solar Panels,1044,452,1660,499
+120.png,Body,884,428,1052,601
+121.png,Solar Panels,977,486,1664,640
+121.png,Solar Panels,327,408,866,538
+121.png,Body,856,443,1050,587
+122.png,Solar Panels,573,275,1400,881
+122.png,Body,846,488,1157,621
+123.png,Solar Panels,335,486,966,646
+123.png,Solar Panels,1104,437,1536,565
+123.png,Body,870,469,1125,587
+124.png,Solar Panels,366,471,832,567
+124.png,Solar Panels,939,467,1623,579
+124.png,Body,821,458,1046,584
+125.png,Solar Panels,886,564,1035,825
+125.png,Solar Panels,888,250,1037,507
+125.png,Body,900,508,1023,568
+126.png,Solar Panels,857,564,989,830
+126.png,Solar Panels,861,245,993,536
+126.png,Body,843,508,1031,568
+127.png,Solar Panels,856,239,940,836
+127.png,Body,805,508,1047,568
+128.png,Body,807,508,1042,567
+129.png,Solar Panels,861,231,935,844
+129.png,Body,801,508,1022,568
+130.png,Solar Panels,857,564,992,844
+130.png,Solar Panels,857,231,991,511
+130.png,Body,833,508,1023,568
+131.png,Solar Panels,883,565,1041,841
+131.png,Solar Panels,880,234,1038,511
+131.png,Body,897,508,1024,568
+132.png,Solar Panels,930,565,1067,844
+132.png,Solar Panels,927,231,1063,511
+132.png,Body,897,508,1088,568
+133.png,Solar Panels,983,231,1064,844
+133.png,Body,877,508,1120,568
+134.png,Body,879,508,1115,568
+135.png,Solar Panels,985,239,1063,836
+135.png,Body,898,508,1118,569
+136.png,Solar Panels,933,564,1063,830
+136.png,Solar Panels,933,245,1063,509
+136.png,Body,896,508,1080,569
+137.png,Solar Panels,576,321,1407,669
+137.png,Body,881,460,1032,575
+138.png,Solar Panels,758,338,989,713
+138.png,Body,796,497,1050,604
+139.png,Solar Panels,578,356,1222,699
+139.png,Body,844,455,1036,589
+139.png,Body,955,520,989,538
+140.png,Solar Panels,458,372,1492,726
+140.png,Body,898,498,1051,604
+141.png,Solar Panels,448,456,1469,700
+141.png,Solar Panels,1128,489,1321,554
+141.png,Solar Panels,1341,474,1394,510
+141.png,Body,890,490,1025,627
+142.png,Solar Panels,1009,506,1055,581
+142.png,Solar Panels,653,483,875,586
+142.png,Body,844,506,1050,575
+143.png,Solar Panels,937,604,1145,784
+143.png,Solar Panels,774,289,1031,547
+143.png,Body,893,505,1068,618
+144.png,Solar Panels,1043,509,1468,639
+144.png,Solar Panels,452,378,943,512
+144.png,Body,896,453,1059,577
+145.png,Solar Panels,458,453,1490,669
+145.png,Body,900,502,1023,603
+146.png,Solar Panels,869,569,1040,841
+146.png,Solar Panels,819,263,985,542
+146.png,Body,852,507,1031,574
+147.png,Solar Panels,654,495,895,518
+147.png,Solar Panels,999,478,1409,509
+147.png,Body,891,451,1058,588
+148.png,Solar Panels,818,479,1024,501
+148.png,Body,889,494,1024,588
+148.png,Body,885,454,1015,485
+149.png,Solar Panels,685,437,1508,679
+149.png,Solar Panels,562,412,710,510
+149.png,Body,884,496,1075,583
+150.png,Solar Panels,707,257,1129,715
+150.png,Body,864,465,1031,588
+151.png,Solar Panels,861,571,973,735
+151.png,Solar Panels,833,256,968,504
+151.png,Body,821,475,1036,582
+152.png,Solar Panels,1000,232,1056,843
+152.png,Body,875,508,1122,569
+153.png,Solar Panels,1052,504,1251,596
+153.png,Solar Panels,1244,512,1464,606
+153.png,Solar Panels,426,467,942,579
+153.png,Body,896,503,1056,578
+154.png,Solar Panels,1102,503,1152,581
+154.png,Solar Panels,849,484,1027,590
+154.png,Body,993,505,1117,575
+155.png,Solar Panels,678,245,1144,824
+155.png,Body,798,493,1054,580
+156.png,Solar Panels,838,454,977,653
+156.png,Body,800,493,1050,575
+157.png,Solar Panels,549,351,1371,754
+157.png,Body,879,486,1100,581
+158.png,Solar Panels,937,581,1288,758
+158.png,Solar Panels,644,433,849,531
+158.png,Body,832,489,1035,629
+159.png,Solar Panels,886,247,1192,818
+159.png,Body,890,489,1122,574
+160.png,Solar Panels,699,446,1245,744
+160.png,Body,846,508,1037,624
+161.png,Solar Panels,689,424,1387,611
+161.png,Body,891,451,1079,579
+162.png,Solar Panels,1176,534,1501,624
+162.png,Solar Panels,1028,514,1189,558
+162.png,Solar Panels,468,398,937,495
+162.png,Body,903,452,1060,567
+163.png,Solar Panels,721,310,1375,721
+163.png,Body,894,494,1103,579
+164.png,Solar Panels,427,527,922,684
+164.png,Solar Panels,1012,418,1429,561
+164.png,Solar Panels,1387,403,1510,500
+164.png,Body,899,501,1034,589
+165.png,Solar Panels,662,267,1307,820
+165.png,Body,883,504,1063,604
+166.png,Solar Panels,624,428,1444,740
+166.png,Body,884,496,1075,616
+167.png,Solar Panels,540,385,1472,653
+167.png,Body,884,451,1059,593
+168.png,Solar Panels,637,510,926,608
+168.png,Solar Panels,1036,461,1485,578
+168.png,Body,880,504,1091,579
+169.png,Solar Panels,595,465,1016,638
+169.png,Solar Panels,1026,432,1122,498
+169.png,Body,801,466,1054,578
+169.png,Body,907,493,940,509
+170.png,Solar Panels,676,268,1354,747
+170.png,Body,870,472,1113,576
+171.png,Solar Panels,912,569,1110,785
+171.png,Solar Panels,805,231,1022,513
+171.png,Body,892,488,1028,577
+172.png,Solar Panels,868,384,1195,805
+172.png,Body,880,496,1100,616
+173.png,Solar Panels,858,436,1191,763
+173.png,Body,885,491,1079,619
+174.png,Solar Panels,845,379,953,787
+174.png,Body,800,502,1041,600
+175.png,Solar Panels,864,520,1040,775
+175.png,Solar Panels,839,324,981,482
+175.png,Body,835,464,1024,574
+176.png,Solar Panels,697,286,1246,775
+176.png,Body,848,500,1035,611
+177.png,Solar Panels,578,355,1350,672
+177.png,Body,819,482,1016,581
+178.png,Solar Panels,441,578,927,671
+178.png,Solar Panels,1041,500,1435,575
+178.png,Body,898,499,1038,631
+179.png,Solar Panels,462,404,1364,721
+179.png,Body,845,490,1032,628
+180.png,Solar Panels,501,565,889,643
+180.png,Solar Panels,990,486,1493,583
+180.png,Body,874,510,1036,629
+181.png,Solar Panels,429,471,1519,655
+181.png,Body,901,506,1030,622
+182.png,Solar Panels,718,345,1292,807
+182.png,Body,872,505,1121,611
+183.png,Solar Panels,406,503,896,613
+183.png,Solar Panels,1012,476,1365,574
+183.png,Body,854,505,1031,578
+184.png,Solar Panels,732,324,1337,773
+184.png,Body,901,509,1113,617
+185.png,Solar Panels,623,303,1119,709
+185.png,Body,809,485,1025,585
+186.png,Solar Panels,991,514,1254,622
+186.png,Solar Panels,1046,531,1063,589
+186.png,Solar Panels,471,436,882,571
+186.png,Body,828,504,1018,579
+187.png,Solar Panels,898,591,1023,779
+187.png,Solar Panels,900,298,1025,488
+187.png,Body,910,514,1013,564
+188.png,Solar Panels,875,560,985,782
+188.png,Solar Panels,877,294,988,537
+188.png,Body,862,514,1017,563
+189.png,Solar Panels,874,290,943,786
+189.png,Body,831,514,1011,563
+190.png,Body,833,514,997,563
+191.png,Solar Panels,877,285,939,792
+191.png,Body,828,514,1009,563
+192.png,Solar Panels,875,561,986,792
+192.png,Solar Panels,875,285,986,516
+192.png,Body,855,514,1013,563
+193.png,Solar Panels,896,590,1027,790
+193.png,Solar Panels,894,287,1025,487
+193.png,Body,908,514,1013,563
+194.png,Solar Panels,936,561,1049,792
+194.png,Solar Panels,933,285,1046,516
+194.png,Body,905,514,1066,564
+195.png,Solar Panels,980,284,1047,792
+195.png,Body,909,514,1093,564
+196.png,Body,923,513,1089,563
+197.png,Solar Panels,981,290,1046,786
+197.png,Body,915,513,1092,564
+198.png,Solar Panels,937,560,1046,782
+198.png,Solar Panels,938,294,1046,515
+198.png,Body,908,513,1060,564
+199.png,Solar Panels,744,319,1164,763
+199.png,Body,902,506,1037,598
+200.png,Solar Panels,848,342,1205,680
+200.png,Body,903,489,1085,575
+201.png,Solar Panels,881,599,1029,748
+201.png,Solar Panels,913,421,1038,525
+201.png,Body,908,515,1023,604
+202.png,Solar Panels,1021,559,1399,590
+202.png,Solar Panels,624,558,894,585
+202.png,Body,903,502,1045,615
+203.png,Solar Panels,846,576,989,764
+203.png,Solar Panels,887,398,1008,521
+203.png,Body,869,515,1016,603
+204.png,Solar Panels,1042,519,1410,626
+204.png,Solar Panels,853,508,1041,581
+204.png,Solar Panels,1247,550,1271,603
+204.png,Solar Panels,506,466,852,569
+204.png,Body,893,509,1007,580
+205.png,Solar Panels,511,545,818,664
+205.png,Solar Panels,781,479,1145,611
+205.png,Solar Panels,1111,429,1401,545
+205.png,Body,908,509,1025,582
+206.png,Solar Panels,1023,507,1362,597
+206.png,Solar Panels,510,431,921,531
+206.png,Body,896,476,1014,578
+207.png,Solar Panels,824,447,1072,551
+207.png,Body,904,470,1037,577
+208.png,Solar Panels,1030,500,1150,584
+208.png,Body,889,513,1046,570
+209.png,Solar Panels,982,510,1085,575
+209.png,Solar Panels,664,498,888,580
+209.png,Body,856,512,1035,570
+210.png,Solar Panels,590,405,1236,635
+210.png,Body,865,467,1024,582
+211.png,Solar Panels,869,484,1220,633
+211.png,Body,883,510,1068,580
+212.png,Solar Panels,778,361,1188,631
+212.png,Body,898,471,1020,567
+213.png,Solar Panels,968,603,1184,760
+213.png,Solar Panels,636,365,857,517
+213.png,Body,833,514,1014,597
+214.png,Solar Panels,591,503,902,587
+214.png,Solar Panels,524,516,589,592
+214.png,Solar Panels,1003,481,1292,561
+214.png,Body,875,498,1012,571
+215.png,Solar Panels,834,358,1242,701
+215.png,Body,908,507,1092,584
+216.png,Solar Panels,767,516,885,535
+216.png,Solar Panels,1020,464,1238,497
+216.png,Body,874,465,1027,582
+217.png,Solar Panels,1034,507,1245,608
+217.png,Solar Panels,847,482,939,550
+217.png,Body,885,502,1066,573
+218.png,Solar Panels,741,457,1124,590
+218.png,Body,824,496,1029,571
+219.png,Solar Panels,851,340,944,778
+219.png,Body,827,508,1032,577
+220.png,Solar Panels,501,530,899,636
+220.png,Solar Panels,1023,476,1351,573
+220.png,Body,887,509,1012,584
+221.png,Solar Panels,871,318,936,791
+221.png,Body,829,513,1034,576
+222.png,Solar Panels,681,315,1213,701
+222.png,Body,900,483,1029,573
+223.png,Solar Panels,700,312,1128,776
+223.png,Body,827,512,1015,587
+224.png,Solar Panels,1001,506,1277,587
+224.png,Solar Panels,526,461,903,556
+224.png,Solar Panels,716,488,746,539
+224.png,Body,865,493,1011,572
+225.png,Solar Panels,609,521,846,623
+225.png,Solar Panels,983,403,1282,528
+225.png,Body,839,477,1031,572
+225.png,Body,934,533,962,550
+226.png,Solar Panels,789,315,1203,706
+226.png,Body,883,482,1094,568
+226.png,Body,996,510,1021,528
+227.png,Solar Panels,1051,554,1289,589
+227.png,Solar Panels,594,545,943,586
+227.png,Body,896,517,1056,614
+228.png,Solar Panels,870,428,950,722
+228.png,Body,832,512,1034,594
+229.png,Solar Panels,786,321,1141,794
+229.png,Body,903,514,1022,580
+230.png,Solar Panels,789,454,1275,654
+230.png,Body,890,512,1080,615
+231.png,Solar Panels,819,398,1065,690
+231.png,Body,844,517,1028,610
+232.png,Solar Panels,907,462,1167,634
+232.png,Body,900,500,1089,573
+233.png,Solar Panels,876,295,1144,746
+233.png,Body,884,495,1099,569
+234.png,Solar Panels,778,313,1011,777
+234.png,Body,828,500,1035,573
+235.png,Solar Panels,549,580,922,634
+235.png,Solar Panels,1049,527,1313,567
+235.png,Body,896,500,1028,616
+236.png,Solar Panels,867,424,1212,616
+236.png,Body,901,498,1071,569
+237.png,Solar Panels,757,416,1134,578
+237.png,Body,899,467,1040,583
+238.png,Solar Panels,723,439,1045,701
+238.png,Body,825,508,1036,590
+239.png,Solar Panels,1019,520,1388,644
+239.png,Solar Panels,856,500,1017,580
+239.png,Solar Panels,532,446,855,559
+239.png,Body,870,506,1015,573
+240.png,Solar Panels,717,532,1189,600
+240.png,Solar Panels,976,541,1141,591
+240.png,Body,834,507,1006,604
+241.png,Solar Panels,769,317,1253,738
+241.png,Body,912,482,1089,575
+242.png,Solar Panels,719,412,1330,712
+242.png,Body,907,505,1072,587
+243.png,Solar Panels,599,359,1328,729
+243.png,Body,904,505,1026,575
+244.png,Solar Panels,923,346,1068,653
+244.png,Body,899,482,1084,581
+245.png,Solar Panels,683,310,1273,770
+245.png,Body,901,499,1051,575
+246.png,Solar Panels,891,481,1187,606
+246.png,Body,901,500,1084,572
+247.png,Solar Panels,1069,510,1265,577
+247.png,Solar Panels,1016,509,1067,577
+247.png,Solar Panels,532,499,888,575
+247.png,Body,868,513,1011,570
+248.png,Solar Panels,512,462,1384,639
+248.png,Body,903,517,1034,600
+249.png,Solar Panels,1020,813,1436,945
+249.png,Solar Panels,395,700,919,847
+249.png,Body,867,779,1029,893
+250.png,Solar Panels,539,841,839,979
+250.png,Solar Panels,974,636,1333,802
+250.png,Body,806,761,1051,885
+251.png,Solar Panels,670,587,1068,1080
+251.png,Body,789,814,1058,907
+252.png,Solar Panels,765,705,1013,989
+252.png,Body,813,759,1043,886
+253.png,Solar Panels,896,817,1025,1037
+253.png,Solar Panels,897,539,1027,768
+253.png,Body,908,762,1015,821
+254.png,Solar Panels,871,819,986,1044
+254.png,Solar Panels,874,539,988,787
+254.png,Body,859,762,1022,822
+255.png,Solar Panels,870,539,943,1053
+255.png,Body,826,764,1035,823
+256.png,Body,828,766,1031,823
+257.png,Solar Panels,874,539,939,1066
+257.png,Body,823,765,999,826
+258.png,Solar Panels,872,829,987,1066
+258.png,Solar Panels,871,539,987,782
+258.png,Body,851,766,1012,829
+259.png,Solar Panels,894,829,1029,1061
+259.png,Solar Panels,892,539,1028,782
+259.png,Body,905,767,1016,828
+260.png,Solar Panels,935,830,1052,1066
+260.png,Solar Panels,932,539,1049,782
+260.png,Body,909,767,1071,829
+261.png,Solar Panels,980,539,1050,1066
+261.png,Body,920,767,1098,826
+262.png,Body,890,768,1094,824
+263.png,Solar Panels,982,539,1049,1053
+263.png,Body,890,764,1096,824
+264.png,Solar Panels,936,819,1049,1045
+264.png,Solar Panels,937,539,1049,772
+264.png,Body,905,763,1062,823
+265.png,Solar Panels,896,817,1025,1037
+265.png,Solar Panels,897,539,1027,768
+265.png,Body,908,762,1015,821
+266.png,Solar Panels,680,554,1238,1022
+266.png,Body,894,753,1024,828
+267.png,Solar Panels,1003,788,1377,945
+267.png,Solar Panels,537,633,925,790
+267.png,Solar Panels,781,717,832,765
+267.png,Body,897,754,1018,832
+268.png,Solar Panels,1033,755,1405,827
+268.png,Solar Panels,507,754,863,826
+268.png,Body,909,764,1003,827
+269.png,Solar Panels,535,791,914,947
+269.png,Solar Panels,992,637,1377,793
+269.png,Body,897,757,1016,834
+270.png,Solar Panels,677,559,1239,1027
+270.png,Body,893,758,1023,832
+271.png,Solar Panels,895,827,1025,1043
+271.png,Solar Panels,897,544,1026,743
+271.png,Body,907,768,1014,827
+272.png,Solar Panels,684,559,1243,1028
+272.png,Body,898,758,1028,833
+273.png,Solar Panels,1011,792,1386,949
+273.png,Solar Panels,545,636,930,793
+273.png,Body,904,757,1025,835
+274.png,Solar Panels,1013,756,1207,828
+274.png,Solar Panels,1281,756,1415,828
+274.png,Solar Panels,1212,756,1277,828
+274.png,Solar Panels,517,754,905,826
+274.png,Body,919,764,1013,827
+275.png,Solar Panels,545,788,920,945
+275.png,Solar Panels,1001,654,1327,791
+275.png,Solar Panels,1268,634,1387,714
+275.png,Body,906,755,1025,832
+276.png,Solar Panels,683,555,1245,1022
+276.png,Body,899,753,1029,829
+277.png,Solar Panels,896,817,1025,1037
+277.png,Solar Panels,897,539,1027,768
+277.png,Body,908,762,1015,821
+278.png,Solar Panels,890,827,1031,1066
+278.png,Solar Panels,899,585,1026,762
+278.png,Body,908,767,1015,837
+279.png,Solar Panels,884,858,1037,1018
+279.png,Solar Panels,899,675,1025,783
+279.png,Body,908,771,1015,863
+280.png,Solar Panels,881,842,1040,891
+280.png,Body,908,760,1015,844
+281.png,Solar Panels,901,850,1027,905
+281.png,Solar Panels,882,731,1039,813
+281.png,Body,907,814,1016,874
+282.png,Solar Panels,896,864,1029,1006
+282.png,Solar Panels,886,602,1035,805
+282.png,Body,906,774,1017,864
+283.png,Solar Panels,894,835,1030,1067
+283.png,Solar Panels,892,544,1028,783
+283.png,Body,906,772,1017,834
+284.png,Solar Panels,888,798,1037,1058
+284.png,Solar Panels,894,559,1027,752
+284.png,Body,906,753,1017,827
+285.png,Solar Panels,884,793,1042,964
+285.png,Solar Panels,896,628,1025,733
+285.png,Body,907,728,1016,811
+286.png,Solar Panels,883,771,1042,809
+286.png,Body,908,722,1015,832
+287.png,Solar Panels,900,809,1021,844
+287.png,Solar Panels,886,653,1039,742
+287.png,Body,908,741,1015,840
+288.png,Solar Panels,897,739,1024,954
+288.png,Solar Panels,891,557,1034,735
+288.png,Body,908,734,1015,836
+289.png,Solar Panels,1033,755,1405,827
+289.png,Solar Panels,507,754,863,826
+289.png,Body,909,764,1003,827
+290.png,Solar Panels,1013,756,1207,828
+290.png,Solar Panels,1281,756,1415,828
+290.png,Solar Panels,1212,756,1277,828
+290.png,Solar Panels,517,754,905,826
+290.png,Body,919,764,1013,827
+291.png,Solar Panels,684,608,1202,956
+291.png,Body,826,758,1009,837
+292.png,Solar Panels,825,575,998,998
+292.png,Body,819,762,1041,844
+293.png,Solar Panels,1004,797,1219,867
+293.png,Solar Panels,1061,806,1136,854
+293.png,Solar Panels,543,748,890,840
+293.png,Body,840,764,1036,856
+294.png,Solar Panels,942,549,1104,1056
+294.png,Body,887,767,1098,832
+295.png,Solar Panels,514,703,1369,957
+295.png,Solar Panels,584,892,628,934
+295.png,Body,897,753,1016,869
+296.png,Solar Panels,1005,788,1258,856
+296.png,Solar Panels,516,761,898,843
+296.png,Body,845,764,1032,853
+297.png,Solar Panels,545,613,1393,970
+297.png,Solar Panels,611,640,671,685
+297.png,Body,897,745,1038,832
+298.png,Solar Panels,778,673,1070,987
+298.png,Body,823,762,1019,850
+299.png,Solar Panels,673,829,988,1015
+299.png,Solar Panels,1053,640,1295,795
+299.png,Body,887,762,1089,862
+300.png,Solar Panels,884,752,925,838
+300.png,Body,822,752,1036,828
+301.png,Solar Panels,510,761,865,778
+301.png,Body,903,720,1009,836
+302.png,Solar Panels,807,622,1280,981
+302.png,Solar Panels,835,645,913,719
+302.png,Body,882,736,1099,833
+303.png,Solar Panels,559,612,1272,972
+303.png,Body,863,726,1023,829
+304.png,Solar Panels,866,731,943,889
+304.png,Body,827,763,1035,830
+305.png,Solar Panels,689,765,856,837
+305.png,Solar Panels,923,758,1195,845
+305.png,Body,825,767,967,834
+306.png,Solar Panels,695,563,1183,1039
+306.png,Body,868,767,1023,852
+307.png,Solar Panels,728,572,1075,1062
+307.png,Body,823,765,1017,848
+308.png,Solar Panels,605,653,1353,1012
+308.png,Body,898,753,1063,868
+309.png,Solar Panels,600,698,1264,986
+309.png,Body,899,769,1032,871
+310.png,Solar Panels,625,732,1113,885
+310.png,Body,845,764,1039,830
+311.png,Solar Panels,1014,769,1439,891
+311.png,Solar Panels,1273,810,1300,859
+311.png,Solar Panels,622,695,930,800
+311.png,Solar Panels,561,685,637,758
+311.png,Body,906,750,1039,832
+312.png,Solar Panels,654,644,1273,976
+312.png,Body,838,746,1023,833
+313.png,Solar Panels,856,727,1014,959
+313.png,Body,843,752,1020,859
+314.png,Solar Panels,623,591,1368,963
+314.png,Body,899,732,1060,831
+315.png,Solar Panels,923,583,1134,1000
+315.png,Body,896,763,1098,849
+316.png,Solar Panels,994,661,1066,891
+316.png,Body,889,756,1099,831
+317.png,Solar Panels,772,735,1370,866
+317.png,Solar Panels,494,704,797,805
+317.png,Body,892,756,1015,830
+318.png,Solar Panels,813,601,1187,1062
+318.png,Body,903,760,1099,855
+319.png,Solar Panels,554,655,1340,963
+319.png,Body,901,754,1038,870
+320.png,Solar Panels,542,610,1343,992
+320.png,Body,894,745,1031,832
+321.png,Solar Panels,604,571,1182,995
+321.png,Solar Panels,1004,691,1023,710
+321.png,Body,828,737,1038,826
+322.png,Solar Panels,620,779,892,886
+322.png,Solar Panels,979,750,1134,828
+322.png,Body,842,765,1013,845
+323.png,Solar Panels,961,648,1067,1003
+323.png,Body,895,762,1096,836
+324.png,Solar Panels,983,544,1062,1069
+324.png,Body,899,772,1101,826
+325.png,Solar Panels,690,579,1209,1026
+325.png,Body,898,735,1049,832
+326.png,Solar Panels,693,556,1264,1026
+326.png,Body,896,759,1075,832
+327.png,Solar Panels,512,768,872,868
+327.png,Solar Panels,1013,741,1213,824
+327.png,Solar Panels,1199,724,1419,812
+327.png,Body,916,764,1017,829
+328.png,Solar Panels,746,572,1139,1032
+328.png,Body,899,734,1026,833
+329.png,Solar Panels,492,762,928,874
+329.png,Solar Panels,1018,685,1418,787
+329.png,Body,910,727,1021,834
+330.png,Solar Panels,576,782,970,897
+330.png,Solar Panels,1068,732,1354,830
+330.png,Body,897,763,1073,849
+331.png,Solar Panels,1013,783,1403,923
+331.png,Solar Panels,528,661,927,801
+331.png,Body,906,759,1021,834
+332.png,Solar Panels,721,575,1100,1059
+332.png,Body,848,761,1020,834
+333.png,Solar Panels,738,774,1193,889
+333.png,Body,902,758,1088,870
+333.png,Body,997,789,1023,805
+334.png,Solar Panels,646,779,868,873
+334.png,Solar Panels,939,717,1270,832
+334.png,Body,833,764,995,844
+335.png,Solar Panels,555,783,965,902
+335.png,Solar Panels,1062,725,1367,828
+335.png,Body,898,763,1067,849
+336.png,Solar Panels,568,619,1325,1011
+336.png,Body,845,759,1027,856
+337.png,Solar Panels,564,701,1379,865
+337.png,Solar Panels,1124,781,1306,847
+337.png,Body,860,726,1017,837
+338.png,Solar Panels,622,714,1117,889
+338.png,Body,832,751,1040,831
+339.png,Solar Panels,852,542,966,1068
+339.png,Body,823,770,1033,833
+340.png,Solar Panels,848,722,1115,846
+340.png,Body,952,728,1089,802
+341.png,Solar Panels,1071,804,1364,929
+341.png,Solar Panels,693,628,917,731
+341.png,Solar Panels,639,603,694,633
+341.png,Body,911,724,1072,839
+342.png,Solar Panels,719,540,1130,1057
+342.png,Body,841,752,1021,825
+343.png,Solar Panels,801,705,1298,875
+343.png,Body,883,763,1092,837
+344.png,Solar Panels,1040,804,1415,954
+344.png,Solar Panels,615,693,1045,857
+344.png,Body,897,762,1054,854
+345.png,Solar Panels,775,711,1296,910
+345.png,Body,884,766,1092,872
+346.png,Solar Panels,923,538,1114,1022
+346.png,Body,888,754,1094,829
+347.png,Solar Panels,813,698,1129,991
+347.png,Body,896,767,1072,866
+348.png,Solar Panels,751,739,1209,873
+348.png,Body,956,763,1095,829
+349.png,Solar Panels,1072,763,1231,842
+349.png,Solar Panels,732,735,999,832
+349.png,Body,959,764,1095,827
+350.png,Solar Panels,649,587,1164,996
+350.png,Body,842,731,1021,835
+351.png,Solar Panels,1012,780,1331,905
+351.png,Solar Panels,507,668,909,806
+351.png,Body,875,755,1014,833
+352.png,Solar Panels,674,598,1135,1055
+352.png,Body,849,763,1028,845
+353.png,Solar Panels,667,550,1144,1025
+353.png,Body,830,749,1022,828
+354.png,Solar Panels,682,663,1202,955
+354.png,Body,900,751,1041,876
+355.png,Solar Panels,962,729,1064,850
+355.png,Body,885,765,1097,832
+356.png,Solar Panels,916,812,1037,927
+356.png,Solar Panels,918,582,1059,743
+356.png,Body,907,730,1044,823
+357.png,Solar Panels,723,746,1157,869
+357.png,Body,829,765,960,832
+358.png,Solar Panels,1021,754,1437,836
+358.png,Solar Panels,590,766,913,842
+358.png,Body,904,766,1046,831
+359.png,Solar Panels,1027,779,1396,934
+359.png,Solar Panels,666,658,922,790
+359.png,Body,910,744,1070,831
+360.png,Solar Panels,738,552,1070,1024
+360.png,Body,829,761,1020,834
+361.png,Solar Panels,524,761,892,859
+361.png,Solar Panels,989,739,1234,823
+361.png,Body,848,759,1032,829
+362.png,Solar Panels,612,587,1290,1033
+362.png,Body,847,759,1025,841
+363.png,Solar Panels,709,743,1356,927
+363.png,Body,890,757,1072,869
+364.png,Solar Panels,719,555,1088,1025
+364.png,Body,829,763,1018,834
+365.png,Solar Panels,557,649,1333,1004
+365.png,Body,893,757,1021,859
+366.png,Solar Panels,815,701,952,946
+366.png,Body,819,762,1036,839
+367.png,Solar Panels,581,608,1276,924
+367.png,Body,882,733,1012,832
+368.png,Solar Panels,978,856,1272,995
+368.png,Solar Panels,613,674,864,793
+368.png,Body,835,771,1036,869
+369.png,Solar Panels,668,750,1170,891
+369.png,Body,882,764,1022,873
+370.png,Solar Panels,659,603,1166,1048
+370.png,Body,831,760,1004,858
+371.png,Solar Panels,1019,781,1421,874
+371.png,Solar Panels,613,756,918,836
+371.png,Body,908,765,1055,848
+372.png,Solar Panels,539,790,930,944
+372.png,Solar Panels,1007,649,1395,800
+372.png,Body,907,759,1024,832
+373.png,Solar Panels,806,655,1023,891
+373.png,Body,819,748,1039,832
+374.png,Solar Panels,722,706,1285,930
+374.png,Body,895,754,1051,874
+375.png,Solar Panels,709,642,1341,919
+375.png,Body,901,719,1074,841
+376.png,Solar Panels,947,762,1325,853
+376.png,Solar Panels,684,757,845,833
+376.png,Solar Panels,589,755,681,827
+376.png,Body,844,766,1005,832
+377.png,Solar Panels,1034,762,1290,864
+377.png,Solar Panels,805,741,934,817
+377.png,Body,914,760,1072,828
+378.png,Solar Panels,965,775,1382,881
+378.png,Solar Panels,667,748,866,833
+378.png,Solar Panels,557,740,665,817
+378.png,Body,866,764,1014,844
+IMG_7579.png,Solar Panels,1648,1459,3845,2419
+IMG_7579.png,Solar Panels,291,1315,1251,1914
+IMG_7579.png,Body,1243,1115,1853,2048
+IMG_7592.png,Solar Panels,1851,1411,2208,1693
+IMG_7592.png,Body,2205,1271,2489,1718
+IMG_7592.png,Solar Panels,2396,1425,3382,1815
+IMG_7586.png,Solar Panels,45,1236,1788,1805
+IMG_7586.png,Body,1771,964,2183,1847
+IMG_7587.png,Solar Panels,1634,1131,3765,2064
+IMG_7587.png,Solar Panels,551,1219,1257,1727
+IMG_7587.png,Body,1238,905,1815,1797
+IMG_7593.png,Solar Panels,1307,1190,2034,1607
+IMG_7593.png,Solar Panels,2335,1228,4005,1864
+IMG_7593.png,Body,2033,984,2441,1646
+IMG_7578.png,Solar Panels,2086,1483,4027,2064
+IMG_7578.png,Solar Panels,1,1816,1608,2355
+IMG_7578.png,Body,1564,1330,2130,2004
+IMG_7585.png,Solar Panels,15,1480,1500,2856
+IMG_7585.png,Solar Panels,2325,570,3023,1491
+IMG_7585.png,Body,1203,336,2306,2199
+IMG_7591.png,Solar Panels,47,1142,1942,1729
+IMG_7591.png,Solar Panels,2284,1204,3947,1738
+IMG_7591.png,Body,1936,905,2292,1809
+IMG_7590.png,Solar Panels,153,1346,1652,1808
+IMG_7590.png,Solar Panels,1920,1395,3180,1812
+IMG_7590.png,Body,1656,1164,1941,1864
+IMG_7584.png,Solar Panels,13,1089,2621,2249
+IMG_7584.png,Solar Panels,3036,1208,3859,1792
+IMG_7584.png,Body,2378,841,3133,1918
+IMG_7580.png,Solar Panels,1915,1410,2047,1759
+IMG_7580.png,Solar Panels,2207,1552,2853,2447
+IMG_7580.png,Body,2024,1305,2382,1929
+IMG_7594.png,Solar Panels,1603,953,2048,1397
+IMG_7594.png,Solar Panels,2338,1013,3909,1855
+IMG_7594.png,Body,2050,751,2496,1460
+IMG_7595.png,Solar Panels,583,1365,1578,1909
+IMG_7595.png,Solar Panels,1948,1467,4026,2310
+IMG_7595.png,Body,1572,1163,2064,1993
+IMG_7581.png,Solar Panels,1722,1508,3017,2269
+IMG_7581.png,Solar Panels,5,1584,1093,2335
+IMG_7581.png,Body,1044,953,1787,2445
+IMG_7583.png,Solar Panels,61,1336,1795,1880
+IMG_7583.png,Solar Panels,2112,1377,3663,1885
+IMG_7583.png,Body,1772,1100,2151,1917
+IMG_7582.png,Solar Panels,2766,1159,3779,1724
+IMG_7582.png,Solar Panels,11,1147,2334,2033
+IMG_7582.png,Body,2180,850,2768,1798
+IMG_7596.png,Solar Panels,964,1340,1914,1676
+IMG_7596.png,Solar Panels,2516,1410,3091,1743
+IMG_7596.png,Body,1903,1252,2125,1635
+IMG_7571.png,Solar Panels,788,1280,1970,1658
+IMG_7571.png,Solar Panels,2200,1269,3210,1621
+IMG_7571.png,Body,1954,1101,2220,1641
+IMG_7573.png,Solar Panels,2189,1285,3658,1756
+IMG_7573.png,Solar Panels,565,1298,1895,1749
+IMG_7573.png,Body,1888,1067,2209,1779
+IMG_7583.png,Solar Panels,61,1336,1795,1880
+IMG_7583.png,Solar Panels,2112,1377,3663,1885
+IMG_7583.png,Body,1772,1100,2151,1917
+IMG_7582.png,Solar Panels,2766,1159,3779,1724
+IMG_7582.png,Solar Panels,11,1147,2334,2033
+IMG_7582.png,Body,2180,850,2768,1798
+IMG_7596.png,Solar Panels,964,1340,1914,1676
+IMG_7596.png,Solar Panels,2516,1410,3091,1743
+IMG_7596.png,Body,1903,1252,2125,1635
+IMG_7571.png,Solar Panels,788,1280,1970,1658
+IMG_7571.png,Solar Panels,2200,1269,3210,16211
+IMG_7571.png,Body,1954,1101,2220,1641
+IMG_7573.png,Solar Panels,2189,1285,3658,1756
+IMG_7573.png,Solar Panels,565,1298,1895,1749
+IMG_7573.png,Body,1888,1067,2209,1779
